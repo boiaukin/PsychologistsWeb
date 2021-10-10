@@ -8,7 +8,7 @@
             "地區":"A臺北",
             "identify":"臨床心理師",
             "topics":["自我探索","人際關係議題","生涯議題","壓力調適","睡眠問題","飲食問題","身心症狀","時間管理"],
-            "unit":"即將更新",
+            "unit":["即將更新"],
             "Email":"ysduann@ntu.edu.tw",
             "Notes 2":"",
             "Attachments":"",
@@ -18,171 +18,171 @@
             "name":"李炯德",
             "學校":"國立台灣大學心輔中心",
             "地區":"A臺北",
-            "identify":"臨床心理師","topics":["自我探索","生涯議題","情感關係議題","性別議題","睡眠問題","飲食問題"],"unit":"即將更新","Email":"chiungteli@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            "identify":"臨床心理師","topics":["自我探索","生涯議題","情感關係議題","性別議題","睡眠問題","飲食問題"],"unit":["即將更新"],"Email":"chiungteli@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
             {
             "name":"賴秋鈴",
             "學校":"國立台灣大學心輔中心",
             "地區":"A臺北",
-            "identify":"諮商心理師","topics":["生涯議題","壓力調適","時間管理","情感關係議題","睡眠問題","飲食問題","成癮問題","家庭關係議題"],"unit":"即將更新","Email":"clai@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            "identify":"諮商心理師","topics":["生涯議題","壓力調適","時間管理","情感關係議題","睡眠問題","飲食問題","成癮問題","家庭關係議題"],"unit":["即將更新"],"Email":"clai@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
             {
             "name":"林廷頤",
             "學校":"國立台灣大學心輔中心",
             "地區":"A臺北",
-            "identify":"諮商心理師","topics":["自我探索","生涯議題","壓力調適","時間管理","人際關係議題","情感關係議題","睡眠問題"],"unit":"即將更新","Email":"tingyilin@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            "identify":"諮商心理師","topics":["自我探索","生涯議題","壓力調適","時間管理","人際關係議題","情感關係議題","睡眠問題"],"unit":["即將更新"],"Email":"tingyilin@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
             {
             "name":"陳威宇",
             "學校":"國立台灣大學心輔中心",
             "地區":"A臺北",
             "identify":"社工師",
-            "topics":["情感關係議題","生涯議題","課業學習","人際關係議題","睡眠問題","身心症狀","飲食問題","外籍生"],"unit":"外籍生","Email":"weiyuchen@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            "topics":["情感關係議題","生涯議題","課業學習","人際關係議題","睡眠問題","身心症狀","飲食問題","外籍生"],"unit":["外籍生"],"Email":"weiyuchen@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
             {
             "name":"黃揚文",
             "學校":"國立台灣大學心輔中心",
             "地區":"A臺北",
             "identify":"臨床心理師",
-            "topics":["壓力調適","課業學習","時間管理","睡眠問題","家庭關係議題","成癮問題","身心症狀","飲食問題"],"unit":"醫學院","Email":"yangwen@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            "topics":["壓力調適","課業學習","時間管理","睡眠問題","家庭關係議題","成癮問題","身心症狀","飲食問題"],"unit":["醫學院"],"Email":"yangwen@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
             {
             "name":"李佩璇",
             "學校":"國立台灣大學心輔中心",
             "地區":"A臺北",
-            "identify":"臨床心理師","topics":["自我探索","生涯議題","課業學習","情感關係議題","睡眠問題","飲食問題","身心症狀","人際關係議題","家庭關係議題"],"unit":"醫學院","Email":"peihsuanlee@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            "identify":"臨床心理師","topics":["自我探索","生涯議題","課業學習","情感關係議題","睡眠問題","飲食問題","身心症狀","人際關係議題","家庭關係議題"],"unit":["醫學院"],"Email":"peihsuanlee@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
             {
             "name":"李景惠",
             "學校":"國立台灣大學心輔中心",
             "地區":"A臺北",
-            "identify":"諮商心理師","topics":["自我探索","生涯議題","壓力調適","時間管理","情感關係議題","睡眠問題","身心症狀","人際關係議題","成癮問題"],"unit":"工學院","Email":"chli24615@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            "identify":"諮商心理師","topics":["自我探索","生涯議題","壓力調適","時間管理","情感關係議題","睡眠問題","身心症狀","人際關係議題","成癮問題"],"unit":["工學院"],"Email":"chli24615@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
             {
             "name":"吳玫瑩",
             "學校":"國立台灣大學心輔中心",
             "地區":"A臺北",
-            "identify":"諮商心理師","topics":["自我探索","生涯議題","情感關係議題","性別議題","睡眠問題","身心症狀","人際關係議題","家庭關係議題"],"unit":"管理學院","Email":"meijoywu@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            "identify":"諮商心理師","topics":["自我探索","生涯議題","情感關係議題","性別議題","睡眠問題","身心症狀","人際關係議題","家庭關係議題"],"unit":["管理學院"],"Email":"meijoywu@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
             {
             "name":"李雨珊",
             "學校":"國立台灣大學心輔中心",
             "地區":"A臺北",
-            "identify":"諮商心理師","topics":["自我探索","壓力調適","時間管理","情感關係議題","人際關係議題","身心症狀","家庭關係議題"],"unit":"管理學院","Email":"yslee161@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            "identify":"諮商心理師","topics":["自我探索","壓力調適","時間管理","情感關係議題","人際關係議題","身心症狀","家庭關係議題"],"unit":["管理學院"],"Email":"yslee161@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
             {
             "name":"黃芸瑩",
             "學校":"國立台灣大學心輔中心",
             "地區":"A臺北",
-            "identify":"諮商心理師","topics":["自我探索","生涯議題","課業學習","壓力調適","時間管理","情感關係議題","性別議題","飲食問題","睡眠問題","身心症狀","人際關係議題","家庭關係議題","成癮問題"],"unit":"理學院","Email":"yunyinghuang@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            "identify":"諮商心理師","topics":["自我探索","生涯議題","課業學習","壓力調適","時間管理","情感關係議題","性別議題","飲食問題","睡眠問題","身心症狀","人際關係議題","家庭關係議題","成癮問題"],"unit":["理學院"],"Email":"yunyinghuang@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
             {
             "name":"薛六童",
             "學校":"國立台灣大學心輔中心",
             "地區":"A臺北",
-            "identify":"諮商心理師","topics":["自我探索","課業學習","壓力調適","時間管理","情感關係議題","睡眠問題","飲食問題","身心症狀","人際關係議題","家庭關係議題"],"unit":"電資學院, 生命科學院","Email":"lioutung@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            "identify":"諮商心理師","topics":["自我探索","課業學習","壓力調適","時間管理","情感關係議題","睡眠問題","飲食問題","身心症狀","人際關係議題","家庭關係議題"],"unit":["電資學院", "生命科學院"],"Email":"lioutung@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
             {
             "name":"陳芊羽",
             "學校":"國立台灣大學心輔中心",
             "地區":"A臺北",
-            "identify":"諮商心理師","topics":["課業學習","壓力調適","時間管理","情感關係議題","性別議題","睡眠問題","人際關係議題","身心症狀"],"unit":"文學院","Email":"chienychen@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            "identify":"諮商心理師","topics":["課業學習","壓力調適","時間管理","情感關係議題","性別議題","睡眠問題","人際關係議題","身心症狀"],"unit":["文學院"],"Email":"chienychen@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
             {
             "name":"邱彥翔",
             "學校":"國立台灣大學心輔中心",
             "地區":"A臺北",
-            "identify":"臨床心理師","topics":["自我探索","壓力調適","時間管理","身心症狀","課業學習"],"unit":"文學院","Email":"yenshiangchiu@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            "identify":"臨床心理師","topics":["自我探索","壓力調適","時間管理","身心症狀","課業學習"],"unit":["文學院"],"Email":"yenshiangchiu@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
             {
             "name":"金辰卉",
             "學校":"國立台灣大學心輔中心",
             "地區":"A臺北",
-            "identify":"諮商心理師","topics":["自我探索","生涯議題","壓力調適","時間管理","情感關係議題","家庭關係議題","人際關係議題","身心症狀"],"unit":"文學院","Email":"cch0777@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            "identify":"諮商心理師","topics":["自我探索","生涯議題","壓力調適","時間管理","情感關係議題","家庭關係議題","人際關係議題","身心症狀"],"unit":["文學院"],"Email":"cch0777@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
             {
             "name":"宣秀慧",
             "學校":"國立台灣大學心輔中心",
             "地區":"A臺北",
-            "identify":"社工師","topics":["生涯議題","課業學習","壓力調適","家庭關係議題","時間管理","情感關係議題","性別議題","睡眠問題","人際關係議題","身心症狀","成癮問題"],"unit":"社科學院","Email":"hhhsuan@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            "identify":"社工師","topics":["生涯議題","課業學習","壓力調適","家庭關係議題","時間管理","情感關係議題","性別議題","睡眠問題","人際關係議題","身心症狀","成癮問題"],"unit":["社科學院"],"Email":"hhhsuan@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
             {
             "name":"凃鴻安",
             "學校":"國立台灣大學心輔中心",
             "地區":"A臺北",
-            "identify":"諮商心理師","topics":["自我探索","生涯議題","情感關係議題","身心症狀"],"unit":"社科學院","Email":"hungantu@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            "identify":"諮商心理師","topics":["自我探索","生涯議題","情感關係議題","身心症狀"],"unit":["社科學院"],"Email":"hungantu@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
             {
             "name":"洪千惠",
             "學校":"國立台灣大學心輔中心",
             "地區":"A臺北",
-            "identify":"臨床心理師","topics":["自我探索","生涯議題","課業學習","壓力調適","時間管理","情感關係議題","睡眠問題","飲食問題","身心症狀","成癮問題","人際關係議題","家庭關係議題"],"unit":"法學院","Email":"hungcianhuei@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            "identify":"臨床心理師","topics":["自我探索","生涯議題","課業學習","壓力調適","時間管理","情感關係議題","睡眠問題","飲食問題","身心症狀","成癮問題","人際關係議題","家庭關係議題"],"unit":["法學院"],"Email":"hungcianhuei@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
             {
             "name":"陳瑋琳",
             "學校":"國立台灣大學心輔中心",
             "地區":"A臺北",
-            "identify":"臨床心理師","topics":["自我探索","生涯議題","課業學習","壓力調適","時間管理","情感關係議題","睡眠問題","人際關係議題","家庭關係議題"],"unit":"生農學院, 公衛學院","Email":"weilinchen@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            "identify":"臨床心理師","topics":["自我探索","生涯議題","課業學習","壓力調適","時間管理","情感關係議題","睡眠問題","人際關係議題","家庭關係議題"],"unit":["生農學院","公衛學院"],"Email":"weilinchen@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
             {
             "name":"謝尹婷",
             "學校":"國立台灣大學心輔中心",
             "地區":"A臺北",
-            "identify":"諮商心理師","topics":["自我探索","生涯議題","課業學習","情感關係議題","性別議題","身心症狀","人際關係議題","家庭關係議題"],"unit":"生農學院, 公衛學院","Email":"yintinghsieh@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            "identify":"諮商心理師","topics":["自我探索","生涯議題","課業學習","情感關係議題","性別議題","身心症狀","人際關係議題","家庭關係議題"],"unit":["生農學院", "公衛學院"],"Email":"yintinghsieh@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
             {
             "name":"邱韻哲",
             "學校":"國立台灣大學心輔中心",
             "地區":"A臺北",
-            "identify":"諮商心理師,藝術治療師","topics":["自我探索","生涯議題","情感關係議題","人際關係議題","睡眠問題","性別議題","身心症狀"],"unit":"即將更新","Email":"chiuchiu7585@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            "identify":"諮商心理師,藝術治療師","topics":["自我探索","生涯議題","情感關係議題","人際關係議題","睡眠問題","性別議題","身心症狀"],"unit":["即將更新"],"Email":"chiuchiu7585@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
             {
             "name":"顧晉豪",
             "學校":"國立台灣大學心輔中心",
             "地區":"A臺北",
-            "identify":"社工師","topics":["自我探索","課業學習","生涯議題","情感關係議題","壓力調適","時間管理","人際關係議題","家庭關係議題"],"unit":"公衛學院","Email":"chinhaoku@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            "identify":"社工師","topics":["自我探索","課業學習","生涯議題","情感關係議題","壓力調適","時間管理","人際關係議題","家庭關係議題"],"unit":["公衛學院"],"Email":"chinhaoku@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
             {
             "name":"黃柏蒼",
             "學校":"國立台灣大學心輔中心",
             "地區":"A臺北",
-            "identify":"臨床心理師","topics":["自我探索","課業學習","壓力調適","時間管理","性別議題","睡眠問題","飲食問題","身心症狀","人際關係議題","家庭關係議題"],"unit":"醫學院","Email":"pthuang@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            "identify":"臨床心理師","topics":["自我探索","課業學習","壓力調適","時間管理","性別議題","睡眠問題","飲食問題","身心症狀","人際關係議題","家庭關係議題"],"unit":["醫學院"],"Email":"pthuang@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
             {
             "name":"宋孟玲",
             "學校":"國立台灣大學心輔中心",
             "地區":"A臺北",
-            "identify":"諮商心理師","topics":["自我探索","情緒管理","生涯議題"],"unit":"生農學院","Email":"mlsung@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            "identify":"諮商心理師","topics":["自我探索","情緒管理","生涯議題"],"unit":["生農學院"],"Email":"mlsung@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
             {
             "name":"陳嘉桓",
             "學校":"國立台灣大學心輔中心",
             "地區":"A臺北",
-            "identify":"其他輔導工作人員","topics":["自我探索","課業學習","情感關係議題","性別議題","睡眠問題","飲食問題","人際關係議題","特教生"],"unit":"生農學院, 醫學院","Email":"chiahuan@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            "identify":"其他輔導工作人員","topics":["自我探索","課業學習","情感關係議題","性別議題","睡眠問題","飲食問題","人際關係議題","特教生"],"unit":["生農學院","醫學院"],"Email":"chiahuan@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
             {
             "name":"吳郁芬",
             "學校":"國立台灣大學心輔中心",
             "地區":"A臺北",
-            "identify":"諮商心理師,其他輔導工作人員","topics":["特教生","自我探索","生涯議題","課業學習","壓力調適","時間管理","情感關係議題","睡眠問題","成癮問題","人際關係議題","家庭關係議題"],"unit":"文學院, 理學院","Email":"rainwu@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            "identify":"諮商心理師,其他輔導工作人員","topics":["特教生","自我探索","生涯議題","課業學習","壓力調適","時間管理","情感關係議題","睡眠問題","成癮問題","人際關係議題","家庭關係議題"],"unit":["文學院","理學院"],"Email":"rainwu@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
             {
             "name":"朱啟丹",
             "學校":"國立台灣大學心輔中心",
             "地區":"A臺北",
-            "identify":"其他輔導工作人員","topics":["特教生","自我探索","情感關係議題","壓力調適","時間管理","性別議題","睡眠問題","成癮問題","人際關係議題"],"unit":"管理學院, 公衛學院, 法學院","Email":"chidan@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            "identify":"其他輔導工作人員","topics":["特教生","自我探索","情感關係議題","壓力調適","時間管理","性別議題","睡眠問題","成癮問題","人際關係議題"],"unit":["管理學院","公衛學院","法學院"],"Email":"chidan@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
             {
             "name":"張銀珍",
             "學校":"國立台灣大學心輔中心",
             "地區":"A臺北",
-            "identify":"諮商心理師,社工師,其他輔導工作人員","topics":["特教生","自我探索","生涯議題","情感關係議題","性別議題","人際關係議題","家庭關係議題","睡眠問題","身心症狀"],"unit":"社科學院","Email":"Jennychang@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            "identify":"諮商心理師,社工師,其他輔導工作人員","topics":["特教生","自我探索","生涯議題","情感關係議題","性別議題","人際關係議題","家庭關係議題","睡眠問題","身心症狀"],"unit":["社科學院"],"Email":"Jennychang@ntu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
             {
             "name":"廖曼婷",
             "學校":"國立台灣大學心輔中心",
             "地區":"A臺北",
-            "identify":"社工師,其他輔導工作人員","topics":["自我探索","生涯議題","身心症狀","課業學習","人際關係議題","家庭關係議題","睡眠問題"],"unit":"電資學院, 社科學院, 文學院, 理學院","Email":"manting@ntu.edu.tw","Notes 2":"文學院戲劇系、理學院地理系","Attachments":"","Status":""}
+            "identify":"社工師,其他輔導工作人員","topics":["自我探索","生涯議題","身心症狀","課業學習","人際關係議題","家庭關係議題","睡眠問題"],"unit":["電資學院", "社科學院", "文學院", "理學院"],"Email":"manting@ntu.edu.tw","Notes 2":"文學院戲劇系、理學院地理系","Attachments":"","Status":""}
         
         ]
     },
@@ -195,7 +195,7 @@
                 "city":"A臺北",
                 "identify":"諮商心理師",
                 "topics":["即將更新"],
-                "unit":"商學院",
+                "unit":["商學院"],
                 "Email":"joylife@nccu.edu.tw"
             }
             ,
@@ -214,7 +214,7 @@
                 "city":"A臺北",
                 "identify":"諮商心理師",
                 "topics":["即將更新"],
-                "unit":"理學院、外語學院(阿語系、語言所)",
+                "unit":["理學院","外語學院(阿語系、語言所)"],
                 "Email":"lick@nccu.edu.tw"
             }
             ,
@@ -224,7 +224,7 @@
                 "city":"A臺北",
                 "identify":"諮商心理師",
                 "topics":["即將更新"],
-                "unit":"教育學院、商學院(會計系、MBA)",
+                "unit":["教育學院","商學院(會計系、MBA)"],
                 "Email":"allyhh@nccu.edu.tw"
             }
             ,
@@ -234,7 +234,7 @@
                 "city":"A臺北",
                 "identify":"諮商心理師",
                 "topics":["即將更新"],
-                "unit":"國際事務學院、社科院(政治系、公行系)",
+                "unit":["國際事務學院","社科院(政治系、公行系)"],
                 "Email":"fangyen@nccu.edu.tw"
             }
             ,
@@ -244,7 +244,7 @@
                 "city":"A臺北",
                 "identify":"諮商心理師",
                 "topics":["即將更新"],
-                "unit":"創新國際學院、外籍生",
+                "unit":["創新國際學院","外籍生"],
                 "Email":"ws777@nccu.edu.tw"
             }
             ,
@@ -254,7 +254,7 @@
                 "city":"A臺北",
                 "identify":"諮商心理師",
                 "topics":["即將更新"],
-                "unit":"傳播學院(廣告系、廣電系、傳院碩博、國英碩、傳碩學程、不分系)",
+                "unit":["傳播學院(廣告系、廣電系、傳院碩博、國英碩、傳碩學程、不分系)"],
                 "Email":"mwu0726@nccu.edu.tw"
             }
             ,
@@ -264,7 +264,7 @@
                 "city":"A臺北",
                 "identify":"諮商心理師",
                 "topics":["即將更新"],
-                "unit":"法學院、外語學院(韓語系)",
+                "unit":["法學院","外語學院(韓語系)"],
                 "Email":"vikyho@nccu.edu.tw"
             }
             ,
@@ -274,7 +274,7 @@
                 "city":"A臺北",
                 "identify":"諮商心理師",
                 "topics":["即將更新"],
-                "unit":"文學院(中文系、國文碩、華碩博)",
+                "unit":["文學院(中文系、國文碩、華碩博)"],
                 "Email":"sy126843@nccu.edu.tw"
             }
             ,
@@ -284,7 +284,7 @@
                 "city":"A臺北",
                 "identify":"諮商心理師",
                 "topics":["即將更新"],
-                "unit":"外語學院(英文系、斯語系、日文系、土文系、英語碩、中東亞碩、東南亞學程)",
+                "unit":["外語學院(英文系、斯語系、日文系、土文系、英語碩、中東亞碩、東南亞學程)"],
                 "Email":"irisrila@nccu.edu.tw"
             }
             ,
@@ -294,7 +294,7 @@
                 "city":"A臺北",
                 "identify":"諮商心理師",
                 "topics":["即將更新"],
-                "unit":"商學院(資管系、國貿系、風管系、統計系)、外語學院(歐語系)",
+                "unit":["商學院(資管系、國貿系、風管系、統計系)","外語學院(歐語系)"],
                 "Email":"128477@nccu.edu.tw"
             }
             ,
@@ -304,7 +304,7 @@
                 "city":"A臺北",
                 "identify":"諮商心理師",
                 "topics":["即將更新"],
-                "unit":"文學院(哲學系、歷史系、宗教所、圖檔所、台史所、台文所、圖資在職)",
+                "unit":["文學院(哲學系、歷史系、宗教所、圖檔所、台史所、台文所、圖資在職)"],
                 "Email":"128478@nccu.edu.tw"
             }
             ,
@@ -314,7 +314,7 @@
                 "city":"A臺北",
                 "identify":"臨床心理師",
                 "topics":["即將更新"],
-                "unit":"傳播學院(新聞系、數位碩)、社科院(社會系、財政系、國發所、勞工所、行管碩、亞英碩博、應經碩)",
+                "unit":["傳播學院(新聞系、數位碩)","社科院(社會系、財政系、國發所、勞工所、行管碩、亞英碩博、應經碩)"],
                 "Email":"128476@nccu.edu.tw"
             }
             
@@ -331,7 +331,7 @@
                 "地區":"A臺北",
                 "identify":"諮商心理師",
                 "topics":["人際關係議題","生涯議題","悲傷失落與創傷調適"],
-                "unit":"公館校區"
+                "unit":["公館校區"]
                 ,"Email":"fanspring@ntnu.edu.tw"
             }
             ,
@@ -342,7 +342,7 @@
                 "地區":"A臺北",
                 "identify":"諮商心理師",
                 "topics":["自我探索","生涯議題","家庭關係議題","性別議題"],
-                "unit":"公館校區"
+                "unit":["公館校區"]
                 ,"Email":"jan@ntnu.edu.tw"
             }
             ,
@@ -353,7 +353,7 @@
                 "地區":"A臺北",
                 "identify":"諮商心理師",
                 "topics":["自我探索","人際關係議題","家庭關係議題","情感關係議題","情緒管理"],
-                "unit":"公館校區"
+                "unit":["公館校區"]
                 ,"Email":"hsincer@ntnu.edu.tw"
             }
             ,
@@ -364,7 +364,7 @@
                 "地區":"A臺北",
                 "identify":"諮商心理師",
                 "topics":["生涯議題","情感關係議題","家庭關係議題","人際關係議題"],
-                "unit":"校本部",
+                "unit":["校本部"],
                 "Email":"kingu@ntnu.edu.tw"
             }
             ,
@@ -375,7 +375,7 @@
                 "地區":"A臺北",
                 "identify":"諮商心理師",
                 "topics":["自我探索","生涯議題","悲傷失落與創傷調適"],
-                "unit":"校本部",
+                "unit":["校本部"],
                 "Email":"yfting@ntnu.edu.tw"
             }
             ,
@@ -386,7 +386,7 @@
                 "地區":"A臺北",
                 "identify":"諮商心理師",
                 "topics":["情感關係議題","人際關係議題","家庭關係議題","悲傷失落與創傷調適","壓力調適"],
-                "unit":"校本部",
+                "unit":["校本部"],
                 "Email":"chenshuyun@ntnu.edu.tw"
             }
             ,
@@ -397,7 +397,7 @@
                 "地區":"A臺北",
                 "identify":"諮商心理師",
                 "topics":["自我探索","情感關係議題","情緒管理"],
-                "unit":"校本部",
+                "unit":["校本部"],
                 "Email":"ginafan@ntnu.edu.tw"
             }
             ,
@@ -408,7 +408,7 @@
                 "地區":"A臺北",
                 "identify":"諮商心理師",
                 "topics":["自我探索","情緒管理","人際關係議題","家庭關係議題","情感關係議題"],
-                "unit":"校本部",
+                "unit":["校本部"],
                 "Email":"cbyang@ntnu.edu.tw"
             }
             ,
@@ -419,7 +419,7 @@
                 "地區":"A臺北",
                 "identify":"諮商心理師",
                 "topics":["自我探索","情緒管理","人際關係議題","家庭關係議題","情感關係議題"],
-                "unit":"校本部",
+                "unit":["校本部"],
                 "Email":"ming2020@ntnu.edu.tw"
             }
             ,
@@ -430,7 +430,7 @@
                 "地區":"A臺北",
                 "identify":"臨床心理師",
                 "topics":["情緒管理","壓力調適","自我探索"],
-                "unit":"校本部",
+                "unit":["校本部"],
                 "Email":"meichen@ntnu.edu.tw"
             }
             ,
@@ -441,7 +441,7 @@
                 "地區":"A臺北",
                 "identify":"諮商心理師",
                 "topics":["自我探索","人際關係議題","家庭關係議題","情感關係議題"],
-                "unit":"校本部",
+                "unit":["校本部"],
                 "Email":"winnie30786@ntnu.edu.tw"
             }
         ]
@@ -455,7 +455,7 @@
                 "地區":"A臺北",
                 "identify":"諮商心理師",
                 "topics":["即將更新"],
-                "unit":"即將更新",
+                "unit":["即將更新"],
                 "Email":"yeah0125@mail.ntust.edu.tw",
                 "Notes 2":"",
                 "Attachments":"",
@@ -467,7 +467,7 @@
                 "地區":"A臺北",
                 "identify":"諮商心理師",
                 "topics":["即將更新"],
-                "unit":"即將更新",
+                "unit":["即將更新"],
                 "Email":"mrice@mail.ntust.edu.tw",
                 "Notes 2":"","Attachments":"",
                 "Status":""
@@ -479,7 +479,7 @@
                 "地區":"A臺北",
                 "identify":"諮商心理師",
                 "topics":["即將更新"],
-                "unit":"即將更新",
+                "unit":["即將更新"],
                 "Email":"weipeng@mail.ntust.edu.tw"
                 ,"Notes 2":"",
                 "Attachments":"",
@@ -491,7 +491,7 @@
                 "地區":"A臺北",
                 "identify":"諮商心理師",
                 "topics":["即將更新"],
-                "unit":"即將更新",
+                "unit":["即將更新"],
                 "Email":"yschang@mail.ntust.edu.tw",
                 "Notes 2":"",
                 "Attachments":"",
@@ -503,7 +503,7 @@
                 "地區":"A臺北",
                 "identify":"諮商心理師",
                 "topics":["即將更新"],
-                "unit":"即將更新",
+                "unit":["即將更新"],
                 "Email":"lyeh@mail.ntust.edu.tw",
                 "Notes 2":"",
                 "Attachments":"",
@@ -514,46 +514,46 @@
     {
         "school":"國立臺北教育大學",
         "psychologists":[
-            {"name":"翁庭芳","學校":"國立臺北教育大學心輔組","地區":"A臺北","identify":"諮商心理師","topics":["家庭關係議題","生涯議題","情緒管理","悲傷失落與創傷調適"],"unit":"即將更新","Email":"pcc@tea.ntue.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"翁庭芳","學校":"國立臺北教育大學心輔組","地區":"A臺北","identify":"諮商心理師","topics":["家庭關係議題","生涯議題","情緒管理","悲傷失落與創傷調適"],"unit":["即將更新"],"Email":"pcc@tea.ntue.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
-            {"name":"景瓊茹","學校":"國立臺北教育大學心輔組","地區":"A臺北","identify":"諮商心理師","topics":["情感關係議題","人際關係議題","家庭關係議題","情緒管理","悲傷失落與創傷調適"],"unit":"即將更新","Email":"pcc@tea.ntue.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"景瓊茹","學校":"國立臺北教育大學心輔組","地區":"A臺北","identify":"諮商心理師","topics":["情感關係議題","人際關係議題","家庭關係議題","情緒管理","悲傷失落與創傷調適"],"unit":["即將更新"],"Email":"pcc@tea.ntue.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
-            {"name":"許雅茹","學校":"國立臺北教育大學心輔組","地區":"A臺北","identify":"諮商心理師","topics":["情感關係議題","自我探索","情緒管理","伴侶"],"unit":"即將更新","Email":"pcc@tea.ntue.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"許雅茹","學校":"國立臺北教育大學心輔組","地區":"A臺北","identify":"諮商心理師","topics":["情感關係議題","自我探索","情緒管理","伴侶"],"unit":["即將更新"],"Email":"pcc@tea.ntue.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
-            {"name":"吳欣儒","學校":"國立臺北教育大學心輔組","地區":"A臺北","identify":"諮商心理師","topics":["情感關係議題","人際關係議題","家庭關係議題","成癮問題","多元文化"],"unit":"即將更新","Email":"pcc@tea.ntue.edu.tw","Notes 2":"","Attachments":"","Status":""},
-            {"name":"莊芷","學校":"國立臺北大學","地區":"B新北","identify":"諮商心理師","topics":["自我探索","情緒管理","人際關係議題","性別議題","伴侶"],"unit":"三峽校區","Email":"counsel@mail.ntpu.edu.tw","Notes 2":"","Attachments":"","Status":""},
-            {"name":"鄭文媛","學校":"國立臺北大學","地區":"B新北","identify":"諮商心理師","topics":["人際關係議題","情緒管理","自我探索","性別議題","睡眠問題"],"unit":"三峽校區","Email":"counsel@mail.ntpu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"吳欣儒","學校":"國立臺北教育大學心輔組","地區":"A臺北","identify":"諮商心理師","topics":["情感關係議題","人際關係議題","家庭關係議題","成癮問題","多元文化"],"unit":["即將更新"],"Email":"pcc@tea.ntue.edu.tw","Notes 2":"","Attachments":"","Status":""},
+            {"name":"莊芷","學校":"國立臺北大學","地區":"B新北","identify":"諮商心理師","topics":["自我探索","情緒管理","人際關係議題","性別議題","伴侶"],"unit":["三峽校區"],"Email":"counsel@mail.ntpu.edu.tw","Notes 2":"","Attachments":"","Status":""},
+            {"name":"鄭文媛","學校":"國立臺北大學","地區":"B新北","identify":"諮商心理師","topics":["人際關係議題","情緒管理","自我探索","性別議題","睡眠問題"],"unit":["三峽校區"],"Email":"counsel@mail.ntpu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
-            {"name":"吳欣倫","學校":"國立臺北大學","地區":"B新北","identify":"諮商心理師","topics":["情緒管理","壓力調適","情感關係議題","人際關係議題","家庭關係議題","生涯議題","伴侶"],"unit":"三峽校區","Email":"counsel@mail.ntpu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"吳欣倫","學校":"國立臺北大學","地區":"B新北","identify":"諮商心理師","topics":["情緒管理","壓力調適","情感關係議題","人際關係議題","家庭關係議題","生涯議題","伴侶"],"unit":["三峽校區"],"Email":"counsel@mail.ntpu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
-            {"name":"劉郁玨","學校":"國立臺北大學","地區":"B新北","identify":"諮商心理師","topics":["家庭關係議題","多元文化","其他"],"unit":"三峽校區","Email":"counsel@mail.ntpu.edu.tw","Notes 2":"其他：非主流族群諮商、團體輔導\n","Attachments":"","Status":""}
+            {"name":"劉郁玨","學校":"國立臺北大學","地區":"B新北","identify":"諮商心理師","topics":["家庭關係議題","多元文化","其他"],"unit":["三峽校區"],"Email":"counsel@mail.ntpu.edu.tw","Notes 2":"其他：非主流族群諮商、團體輔導\n","Attachments":"","Status":""}
             ,
-            {"name":"彭琬昕","學校":"國立臺北大學","地區":"B新北","identify":"諮商心理師","topics":["自我探索","人際關係議題","壓力調適","家庭關係議題","情緒管理","生涯議題"],"unit":"三峽校區","Email":"counsel@mail.ntpu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"彭琬昕","學校":"國立臺北大學","地區":"B新北","identify":"諮商心理師","topics":["自我探索","人際關係議題","壓力調適","家庭關係議題","情緒管理","生涯議題"],"unit":["三峽校區"],"Email":"counsel@mail.ntpu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
-            {"name":"李秋慧","學校":"國立臺北大學","地區":"B新北","identify":"諮商心理師","topics":["生涯議題","多元文化","自我探索","人際關係議題"],"unit":"三峽校區","Email":"counsel@mail.ntpu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"李秋慧","學校":"國立臺北大學","地區":"B新北","identify":"諮商心理師","topics":["生涯議題","多元文化","自我探索","人際關係議題"],"unit":["三峽校區"],"Email":"counsel@mail.ntpu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
-            {"name":"李憶茹","學校":"國立臺北大學","地區":"B新北","identify":"諮商心理師","topics":["情緒管理","自我探索","家庭關係議題","壓力調適","性別議題"],"unit":"台北校區","Email":"counsel@mail.ntpu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"李憶茹","學校":"國立臺北大學","地區":"B新北","identify":"諮商心理師","topics":["情緒管理","自我探索","家庭關係議題","壓力調適","性別議題"],"unit":["台北校區"],"Email":"counsel@mail.ntpu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             
         ]
     },
     {
         "school":"中國文化大學",
         "psychologists":[
-            {"name":"王蔚竣","學校":"中國文化大學","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":"工學院、社科學院","Email":"wwj4@ulive.pccu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"王蔚竣","學校":"中國文化大學","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":["工學院","社科學院"],"Email":"wwj4@ulive.pccu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
-            {"name":"許淑慧","學校":"中國文化大學","地區":"A臺北","identify":"社工師","topics":["即將更新"],"unit":"商學院","Email":"xsh5@ulive.pccu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"許淑慧","學校":"中國文化大學","地區":"A臺北","identify":"社工師","topics":["即將更新"],"unit":["商學院"],"Email":"xsh5@ulive.pccu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
-            {"name":"溫乘瑄","學校":"中國文化大學","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":"農學院","Email":"wcx2@ulive.pccu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"溫乘瑄","學校":"中國文化大學","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":["農學院"],"Email":"wcx2@ulive.pccu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
-            {"name":"周謹平","學校":"中國文化大學","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":"法學院、藝術學院","Email":"zyc12@ulive.pccu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"周謹平","學校":"中國文化大學","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":["法學院","藝術學院"],"Email":"zyc12@ulive.pccu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
-            {"name":"周昱帆","學校":"中國文化大學","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":"外語學院","Email":"zyf6@ulive.pccu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"周昱帆","學校":"中國文化大學","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":["外語學院"],"Email":"zyf6@ulive.pccu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
-            {"name":"李荏芸","學校":"中國文化大學","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":"文學院、環設學院","Email":"lry7@ulive.pccu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"李荏芸","學校":"中國文化大學","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":["文學院","環設學院"],"Email":"lry7@ulive.pccu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
-            {"name":"吳政勳","學校":"中國文化大學","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":"理學院、新傳學院","Email":"wzx10@ulive.pccu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"吳政勳","學校":"中國文化大學","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":["理學院","新傳學院"],"Email":"wzx10@ulive.pccu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
-            {"name":"謝克柔","學校":"中國文化大學","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":"教育學院、運健學院","Email":"xkr@ulive.pccu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"謝克柔","學校":"中國文化大學","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":["教育學院","運健學院"],"Email":"xkr@ulive.pccu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             
         ]
     },
@@ -561,74 +561,74 @@
     {
         "school":"實踐大學",
         "psychologists":[
-            {"name":"王珮蘭","學校":"實踐大學諮商輔導中心","地區":"A臺北","identify":"諮商心理師","topics":["自我探索","生涯議題","性別議題"],"unit":"管理學院","Email":"counseling.usc@gmail.com","Notes 2":"","Attachments":"","Status":""}
+            {"name":"王珮蘭","學校":"實踐大學諮商輔導中心","地區":"A臺北","identify":"諮商心理師","topics":["自我探索","生涯議題","性別議題"],"unit":["管理學院"],"Email":"counseling.usc@gmail.com","Notes 2":"","Attachments":"","Status":""}
             ,
-            {"name":"張嘉玲","學校":"實踐大學諮商輔導中心","地區":"A臺北","identify":"諮商心理師","topics":["自我探索","人際關係議題","壓力調適","情緒管理"],"unit":"民生學院","Email":"counseling.usc@gmail.com","Notes 2":"","Attachments":"","Status":""}
+            {"name":"張嘉玲","學校":"實踐大學諮商輔導中心","地區":"A臺北","identify":"諮商心理師","topics":["自我探索","人際關係議題","壓力調適","情緒管理"],"unit":["民生學院"],"Email":"counseling.usc@gmail.com","Notes 2":"","Attachments":"","Status":""}
             ,
-            {"name":"劉子菡","學校":"實踐大學諮商輔導中心","地區":"A臺北","identify":"諮商心理師","topics":["自我探索","情緒管理","壓力調適","生涯議題","人際關係議題"],"unit":"設計學院","Email":"counseling.usc@gmail.com","Notes 2":"","Attachments":"","Status":""}
+            {"name":"劉子菡","學校":"實踐大學諮商輔導中心","地區":"A臺北","identify":"諮商心理師","topics":["自我探索","情緒管理","壓力調適","生涯議題","人際關係議題"],"unit":["設計學院"],"Email":"counseling.usc@gmail.com","Notes 2":"","Attachments":"","Status":""}
             ,
-            {"name":"楊茹婷","學校":"實踐大學諮商輔導中心","地區":"A臺北","identify":"諮商心理師","topics":["自我探索","生涯議題","壓力調適","情緒管理"],"unit":"進修學制","Email":"counseling.usc@gmail.com","Notes 2":"","Attachments":"","Status":""}
+            {"name":"楊茹婷","學校":"實踐大學諮商輔導中心","地區":"A臺北","identify":"諮商心理師","topics":["自我探索","生涯議題","壓力調適","情緒管理"],"unit":["進修學制"],"Email":"counseling.usc@gmail.com","Notes 2":"","Attachments":"","Status":""}
             
         ]
     },
     {
         "school":"銘傳大學",
         "psychologists":[
-            {"name":"孫乙仙","學校":"銘傳大學諮商輔導中心","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":"管理學院(企管系/所)；法律學院(法律系/所、財金法律系)","Email":"yssun@mail.mcu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"孫乙仙","學校":"銘傳大學諮商輔導中心","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":["管理學院(企管系/所)","法律學院(法律系/所、財金法律系)"],"Email":"yssun@mail.mcu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
-            {"name":"簡杏桂","學校":"銘傳大學諮商輔導中心","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":"管理學院(國企系/所、風保系/所)","Email":"hkchien@mail.mcu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"簡杏桂","學校":"銘傳大學諮商輔導中心","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":["管理學院(國企系/所、風保系/所)"],"Email":"hkchien@mail.mcu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
-            {"name":"趙化如","學校":"銘傳大學諮商輔導中心","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":"傳播學院(廣電系、新聞系、廣銷系、新傳系/所)","Email":"hjchao@mail.mcu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"趙化如","學校":"銘傳大學諮商輔導中心","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":["傳播學院(廣電系、新聞系、廣銷系、新傳系/所)"],"Email":"hjchao@mail.mcu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
-            {"name":"郭昀昕","學校":"銘傳大學諮商輔導中心","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":"管理學院(財金系/所)；國際學院（臺北校區）","Email":"helios@mail.mcu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"郭昀昕","學校":"銘傳大學諮商輔導中心","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":["管理學院(財金系/所)","國際學院（臺北校區）"],"Email":"helios@mail.mcu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
-            {"name":"陳安筠","學校":"銘傳大學諮商輔導中心","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":"會計系/所、傳播學院海青班","Email":"anyun@mail.mcu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"陳安筠","學校":"銘傳大學諮商輔導中心","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":["會計系/所","傳播學院海青班"],"Email":"anyun@mail.mcu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
-            {"name":"許玫倩","學校":"銘傳大學諮商輔導中心","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":"即將更新","Email":"hsumc@mail.mcu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"許玫倩","學校":"銘傳大學諮商輔導中心","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":["即將更新"],"Email":"hsumc@mail.mcu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
-            {"name":"黃啟翔","學校":"銘傳大學諮商輔導中心","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":"設計學院(商設系、品設系、建築系、數媒系、都防系)","Email":"hcsjob@mail.mcu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"黃啟翔","學校":"銘傳大學諮商輔導中心","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":["設計學院(商設系、品設系、建築系、數媒系、都防系)"],"Email":"hcsjob@mail.mcu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
-            {"name":"蘇盈瑜","學校":"銘傳大學諮商輔導中心","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":"社科學院(公事系/所、犯防系/所、心理系/所)；金融科技學院(經濟系/所、統資系/所、金科學程)","Email":"yingyu@mail.mcu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"蘇盈瑜","學校":"銘傳大學諮商輔導中心","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":["社科學院(公事系/所、犯防系/所、心理系/所)","金融科技學院(經濟系/所、統資系/所、金科學程)"],"Email":"yingyu@mail.mcu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
-            {"name":"謝蕙旭","學校":"銘傳大學諮商輔導中心","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":"健康科技學院(醫管系、醫工系、生科系)；觀光學院(觀光系、餐旅系、休憩系)","Email":"huihsu@mail.mcu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"謝蕙旭","學校":"銘傳大學諮商輔導中心","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":["健康科技學院(醫管系、醫工系、生科系)","觀光學院(觀光系、餐旅系、休憩系)"],"Email":"huihsu@mail.mcu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
-            {"name":"楊淑雯","學校":"銘傳大學諮商輔導中心","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":"國際學院(桃園校區)；教育暨應用語文學院(應中系/所、應英系/所、應日系/所、教研所、華教系、英語教學中心)","Email":"yswen@mail.mcu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"楊淑雯","學校":"銘傳大學諮商輔導中心","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":["國際學院(桃園校區)","教育暨應用語文學院(應中系/所、應英系/所、應日系/所、教研所、華教系、英語教學中心)"],"Email":"yswen@mail.mcu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
-            {"name":"黃千珊","學校":"銘傳大學諮商輔導中心","地區":"A臺北","identify":"社工師","topics":["即將更新"],"unit":"資訊學院（資管系、資工系、資傳系、電子系、電通系）","Email":"huangcs@mail.mcu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"黃千珊","學校":"銘傳大學諮商輔導中心","地區":"A臺北","identify":"社工師","topics":["即將更新"],"unit":["資訊學院（資管系、資工系、資傳系、電子系、電通系"],"Email":"huangcs@mail.mcu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             
         ]
     },
     {
         "school":"國立臺北大學",
         "psychologists":[
-            {"name":"褚家鳳","學校":"臺北市立大學學務處學生輔導中心","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":"博愛校區","Email":"vivchu@uTaipei.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"褚家鳳","學校":"臺北市立大學學務處學生輔導中心","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":["博愛校區"],"Email":"vivchu@uTaipei.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
-            {"name":"黃文潔","學校":"臺北市立大學學務處學生輔導中心","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":"博愛校區","Email":"wunjie@uTaipei.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"黃文潔","學校":"臺北市立大學學務處學生輔導中心","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":["博愛校區"],"Email":"wunjie@uTaipei.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
-            {"name":"施雅芝","學校":"臺北市立大學學務處學生輔導中心","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":"天母校區","Email":"","Notes 2":"","Attachments":"","Status":""}
+            {"name":"施雅芝","學校":"臺北市立大學學務處學生輔導中心","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":["天母校區"],"Email":"","Notes 2":"","Attachments":"","Status":""}
     
         ]
     },
     {
         "school":"東吳大學",
         "psychologists":[
-            {"name":"朱嘉琦","學校":"東吳大學健康暨諮商中心","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":"中文系、歷史系","Email":"chichi@scu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"朱嘉琦","學校":"東吳大學健康暨諮商中心","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":["中文系","歷史系"],"Email":"chichi@scu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
-            {"name":"王佳玲","學校":"東吳大學健康暨諮商中心","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":"哲學、政治、社會、音樂系","Email":"glin@scu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"王佳玲","學校":"東吳大學健康暨諮商中心","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":["哲學","政治","社會","音樂系"],"Email":"glin@scu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
-            {"name":"高曉寧","學校":"東吳大學健康暨諮商中心","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":"社工系、英文系、人權學程系","Email":"ningkao@scu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"高曉寧","學校":"東吳大學健康暨諮商中心","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":["社工系","英文系","人權學程系"],"Email":"ningkao@scu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
-            {"name":"黃泠秀","學校":"東吳大學健康暨諮商中心","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":"日文系、德文系","Email":"lingtsai@scu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"黃泠秀","學校":"東吳大學健康暨諮商中心","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":["日文系、德文系"],"Email":"lingtsai@scu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
-            {"name":"謝貞莉","學校":"東吳大學健康暨諮商中心","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":"理、巨量資料管理學院","Email":"jenlih@scu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"謝貞莉","學校":"東吳大學健康暨諮商中心","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":["理、巨量資料管理學院"],"Email":"jenlih@scu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
-            {"name":"林巧媖","學校":"東吳大學健康暨諮商中心","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":"即將更新","Email":"iamiamyoung@scu.eu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"林巧媖","學校":"東吳大學健康暨諮商中心","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":["即將更新"],"Email":"iamiamyoung@scu.eu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
-            {"name":"陳詩潔","學校":"東吳大學健康暨諮商中心","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":"法學院","Email":"scchen0421@scu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"陳詩潔","學校":"東吳大學健康暨諮商中心","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":["法學院"],"Email":"scchen0421@scu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
-            {"name":"黃美淇","學校":"東吳大學健康暨諮商中心","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":"經濟系、會計系、資管系、國貿系","Email":"anita248@scu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"黃美淇","學校":"東吳大學健康暨諮商中心","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":["經濟系","會計系","資管系","國貿系"],"Email":"anita248@scu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
-            {"name":"張哲雅","學校":"東吳大學健康暨諮商中心","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":"企管系、財精系、商學進修學士班","Email":"ariel222@scu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"張哲雅","學校":"東吳大學健康暨諮商中心","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":["企管系","財精系","商學進修學士班"],"Email":"ariel222@scu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             
         ]
     },
@@ -636,157 +636,157 @@
         "school":"輔仁大學",
         "psychologists":[
             
-    {"name":"周佩君","學校":"輔仁大學學生輔導中心","地區":"B新北","identify":"諮商心理師","topics":["情感關係議題","自我探索","生涯議題,生活適應"],"unit":"即將更新","Email":"","Notes 2":"","Attachments":"","Status":""}
+    {"name":"周佩君","學校":"輔仁大學學生輔導中心","地區":"B新北","identify":"諮商心理師","topics":["情感關係議題","自我探索","生涯議題,生活適應"],"unit":["即將更新"],"Email":"","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"何冠瑩","學校":"輔仁大學學生輔導中心","地區":"B新北","identify":"諮商心理師","topics":["家庭關係議題","性別議題","成癮問題","悲傷失落與創傷調適","其他"],"unit":"即將更新","Email":"","Notes 2":"其他：運動員諮商","Attachments":"","Status":""}
+    {"name":"何冠瑩","學校":"輔仁大學學生輔導中心","地區":"B新北","identify":"諮商心理師","topics":["家庭關係議題","性別議題","成癮問題","悲傷失落與創傷調適","其他"],"unit":["即將更新"],"Email":"","Notes 2":"其他：運動員諮商","Attachments":"","Status":""}
     ,
-    {"name":"梁怡恩","學校":"輔仁大學學生輔導中心","地區":"B新北","identify":"諮商心理師","topics":["自我探索","生活適應","人際關係議題","情感關係議題","家庭關係議題"],"unit":"即將更新","Email":"","Notes 2":"","Attachments":"","Status":""}
+    {"name":"梁怡恩","學校":"輔仁大學學生輔導中心","地區":"B新北","identify":"諮商心理師","topics":["自我探索","生活適應","人際關係議題","情感關係議題","家庭關係議題"],"unit":["即將更新"],"Email":"","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"葉怡君","學校":"輔仁大學學生輔導中心","地區":"B新北","identify":"諮商心理師","topics":["自我探索","情感關係議題","人際關係議題","家庭關係議題","情緒管理"],"unit":"即將更新","Email":"","Notes 2":"","Attachments":"","Status":""}
+    {"name":"葉怡君","學校":"輔仁大學學生輔導中心","地區":"B新北","identify":"諮商心理師","topics":["自我探索","情感關係議題","人際關係議題","家庭關係議題","情緒管理"],"unit":["即將更新"],"Email":"","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"蔡幸祖","學校":"輔仁大學學生輔導中心","地區":"B新北","identify":"臨床心理師","topics":["壓力調適","情緒管理","自我探索","情感關係議題"],"unit":"即將更新","Email":"","Notes 2":"","Attachments":"","Status":""}
+    {"name":"蔡幸祖","學校":"輔仁大學學生輔導中心","地區":"B新北","identify":"臨床心理師","topics":["壓力調適","情緒管理","自我探索","情感關係議題"],"unit":["即將更新"],"Email":"","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"利得誠","學校":"輔仁大學學生輔導中心","地區":"B新北","identify":"諮商心理師","topics":["自我探索","人際關係議題","家庭關係議題","性別議題","悲傷失落與創傷調適"],"unit":"即將更新","Email":"","Notes 2":"","Attachments":"","Status":""}
+    {"name":"利得誠","學校":"輔仁大學學生輔導中心","地區":"B新北","identify":"諮商心理師","topics":["自我探索","人際關係議題","家庭關係議題","性別議題","悲傷失落與創傷調適"],"unit":["即將更新"],"Email":"","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"孫允儀","學校":"輔仁大學學生輔導中心","地區":"B新北","identify":"諮商心理師","topics":["自我探索","人際關係議題","情感關係議題","家庭關係議題","情緒管理"],"unit":"即將更新","Email":"","Notes 2":"","Attachments":"","Status":""}
+    {"name":"孫允儀","學校":"輔仁大學學生輔導中心","地區":"B新北","identify":"諮商心理師","topics":["自我探索","人際關係議題","情感關係議題","家庭關係議題","情緒管理"],"unit":["即將更新"],"Email":"","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"彭雪莉","學校":"輔仁大學學生輔導中心","地區":"B新北","identify":"諮商心理師","topics":["多元文化","特教生","情緒管理","情感關係議題","表達性藝術"],"unit":"即將更新","Email":"","Notes 2":"","Attachments":"","Status":""}
+    {"name":"彭雪莉","學校":"輔仁大學學生輔導中心","地區":"B新北","identify":"諮商心理師","topics":["多元文化","特教生","情緒管理","情感關係議題","表達性藝術"],"unit":["即將更新"],"Email":"","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"劉明媚","學校":"輔仁大學學生輔導中心","地區":"B新北","identify":"諮商心理師","topics":["表達性藝術","自我探索","其他"],"unit":"即將更新","Email":"","Notes 2":"其他：家族治療、兒童遊戲治療","Attachments":"","Status":""}
+    {"name":"劉明媚","學校":"輔仁大學學生輔導中心","地區":"B新北","identify":"諮商心理師","topics":["表達性藝術","自我探索","其他"],"unit":["即將更新"],"Email":"","Notes 2":"其他：家族治療、兒童遊戲治療","Attachments":"","Status":""}
     ,
-    {"name":"林欣瑜","學校":"輔仁大學學生輔導中心","地區":"B新北","identify":"諮商心理師","topics":["自我探索","人際關係議題","生涯議題","生活適應"],"unit":"即將更新","Email":"","Notes 2":"","Attachments":"","Status":""}
+    {"name":"林欣瑜","學校":"輔仁大學學生輔導中心","地區":"B新北","identify":"諮商心理師","topics":["自我探索","人際關係議題","生涯議題","生活適應"],"unit":["即將更新"],"Email":"","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"劉嘉泳","學校":"輔仁大學學生輔導中心","地區":"B新北","identify":"諮商心理師","topics":["自我探索","壓力調適","情緒管理","身心症狀"],"unit":"即將更新","Email":"","Notes 2":"","Attachments":"","Status":""}
+    {"name":"劉嘉泳","學校":"輔仁大學學生輔導中心","地區":"B新北","identify":"諮商心理師","topics":["自我探索","壓力調適","情緒管理","身心症狀"],"unit":["即將更新"],"Email":"","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"宋采薇","學校":"輔仁大學學生輔導中心","地區":"B新北","identify":"諮商心理師","topics":["自我探索","情緒管理","人際關係議題"],"unit":"即將更新","Email":"","Notes 2":"","Attachments":"","Status":""}
+    {"name":"宋采薇","學校":"輔仁大學學生輔導中心","地區":"B新北","identify":"諮商心理師","topics":["自我探索","情緒管理","人際關係議題"],"unit":["即將更新"],"Email":"","Notes 2":"","Attachments":"","Status":""}
     
         ]
     },
     {
         "school":"中原大學",
         "psychologists":[
-            {"name":"葉安華","學校":"中原大學學生事務處諮商中心","地區":"D桃園","identify":"諮商心理師","topics":["情感關係議題","性別議題","外籍生"],"unit":"即將更新","Email":"ahyeh@cycu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"葉安華","學校":"中原大學學生事務處諮商中心","地區":"D桃園","identify":"諮商心理師","topics":["情感關係議題","性別議題","外籍生"],"unit":["即將更新"],"Email":"ahyeh@cycu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"蔡秀玲","學校":"中原大學學生事務處諮商中心","地區":"D桃園","identify":"諮商心理師","topics":["家庭關係議題","情緒管理","悲傷失落與創傷調適","其他"],"unit":"即將更新","Email":"shioling@cycu.edu.tw","Notes 2":"基督信仰、沙盤探索","Attachments":"","Status":""}
+    {"name":"蔡秀玲","學校":"中原大學學生事務處諮商中心","地區":"D桃園","identify":"諮商心理師","topics":["家庭關係議題","情緒管理","悲傷失落與創傷調適","其他"],"unit":["即將更新"],"Email":"shioling@cycu.edu.tw","Notes 2":"基督信仰、沙盤探索","Attachments":"","Status":""}
     ,
-    {"name":"江捷如","學校":"中原大學學生事務處諮商中心","地區":"D桃園","identify":"諮商心理師","topics":["自我探索"],"unit":"即將更新","Email":"karen@cycu.edu.tw","Notes 2":"基督信仰、沙盤探索","Attachments":"","Status":""}
+    {"name":"江捷如","學校":"中原大學學生事務處諮商中心","地區":"D桃園","identify":"諮商心理師","topics":["自我探索"],"unit":["即將更新"],"Email":"karen@cycu.edu.tw","Notes 2":"基督信仰、沙盤探索","Attachments":"","Status":""}
     ,
-    {"name":"李玉婷","學校":"中原大學學生事務處諮商中心","地區":"D桃園","identify":"諮商心理師","topics":["情感關係議題","人際關係議題","家庭關係議題","自我探索","外籍生"],"unit":"土木系、資工系、電機系、電資學士班及設計學院博士班個案管理","Email":"yutingms@cycu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"李玉婷","學校":"中原大學學生事務處諮商中心","地區":"D桃園","identify":"諮商心理師","topics":["情感關係議題","人際關係議題","家庭關係議題","自我探索","外籍生"],"unit":["土木系","資工系","電機系","電資學士班及設計學院博士班個案管理"],"Email":"yutingms@cycu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"何瑞美","學校":"中原大學學生事務處諮商中心","地區":"D桃園","identify":"諮商心理師","topics":["情感關係議題","人際關係議題","家庭關係議題"],"unit":"物理系、機械系、特教系、建築系、人工智慧應用學程、巨量資料商業應用碩士學程個案管理","Email":"raymei@cycu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"何瑞美","學校":"中原大學學生事務處諮商中心","地區":"D桃園","identify":"諮商心理師","topics":["情感關係議題","人際關係議題","家庭關係議題"],"unit":["物理系","機械系","特教系","建築系","人工智慧應用學程","巨量資料商業應用碩士學程個案管理"],"Email":"raymei@cycu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"呂盈慧","學校":"中原大學學生事務處諮商中心","地區":"D桃園","identify":"諮商心理師","topics":["自我探索","家庭關係議題","外籍生"],"unit":"工工系、財金系、國際商學學士學程、應華系、教研所個案管理","Email":"luyh@cycu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"呂盈慧","學校":"中原大學學生事務處諮商中心","地區":"D桃園","identify":"諮商心理師","topics":["自我探索","家庭關係議題","外籍生"],"unit":["工工系","財金系","國際商學學士學程","應華系","教研所個案管理"],"Email":"luyh@cycu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"李履前","學校":"中原大學學生事務處諮商中心","地區":"D桃園","identify":"諮商心理師","topics":["性別議題","生涯議題","情感關係議題","人際關係議題","家庭關係議題","外籍生"],"unit":"環工系、電子系、商設系、室設系、資訊國際碩士班、通訊碩士班、生醫材料國際碩士班、國際商學碩士學位學程個案管理","Email":"luchien@cycu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"李履前","學校":"中原大學學生事務處諮商中心","地區":"D桃園","identify":"諮商心理師","topics":["性別議題","生涯議題","情感關係議題","人際關係議題","家庭關係議題","外籍生"],"unit":["環工系","電子系","商設系","室設系","資訊國際碩士班","通訊碩士班","生醫材料國際碩士班","國際商學碩士學位學程個案管理"],"Email":"luchien@cycu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"楊施韻","學校":"中原大學學生事務處諮商中心","地區":"D桃園","identify":"諮商心理師","topics":["自我探索","人際關係議題","情緒管理","情感關係議題"],"unit":"應數系、化學系、會計系、景觀系個案管理","Email":"viviyang@cycu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"楊施韻","學校":"中原大學學生事務處諮商中心","地區":"D桃園","identify":"諮商心理師","topics":["自我探索","人際關係議題","情緒管理","情感關係議題"],"unit":["應數系","化學系","會計系","景觀系個案管理"],"Email":"viviyang@cycu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"王珮靜","學校":"中原大學學生事務處諮商中心","地區":"D桃園","identify":"諮商心理師","topics":["其他"],"unit":"心理系、化工系、醫工系、奈米碩班個案管理","Email":"pcwang@cycu.edu.tw","Notes 2":"一般性個別諮商\n","Attachments":"","Status":""}
+    {"name":"王珮靜","學校":"中原大學學生事務處諮商中心","地區":"D桃園","identify":"諮商心理師","topics":["其他"],"unit":["心理系","化工系","醫工系","奈米碩班個案管理"],"Email":"pcwang@cycu.edu.tw","Notes 2":"一般性個別諮商\n","Attachments":"","Status":""}
     ,
-    {"name":"王嘉平","學校":"中原大學學生事務處諮商中心","地區":"D桃園","identify":"諮商心理師","topics":["情緒管理","人際關係議題","家庭關係議題"],"unit":"理學院學士學位學程、企管系、商學學士學程、天普國際雙學位學程、財法系、人育學院學士學位學程、設計學士原民專班、宗研所、文創設計所個案管理/","Email":"x83261189@cycu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"王嘉平","學校":"中原大學學生事務處諮商中心","地區":"D桃園","identify":"諮商心理師","topics":["情緒管理","人際關係議題","家庭關係議題"],"unit":["理學院學士學位學程","企管系","商學學士學程","天普國際雙學位學程","財法系","人育學院學士學位學程","設計學士原民專班","宗研所","文創設計所個案管理/"],"Email":"x83261189@cycu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"陳靜儀","學校":"中原大學學生事務處諮商中心","地區":"D桃園","identify":"諮商心理師","topics":["家庭關係議題","夢境解析"],"unit":"即將更新","Email":"","Notes 2":"","Attachments":"","Status":""}
+    {"name":"陳靜儀","學校":"中原大學學生事務處諮商中心","地區":"D桃園","identify":"諮商心理師","topics":["家庭關係議題","夢境解析"],"unit":["即將更新"],"Email":"","Notes 2":"","Attachments":"","Status":""}
     
         ]
     },
     {
         "school":"國立中央大學",
         "psychologists":[
-            {"name":"傅琇悅","學校":"國立中央大學諮商中心","地區":"D桃園","identify":"諮商心理師","topics":["生涯議題","情緒管理","人際關係議題","壓力調適"],"unit":"即將更新","Email":"yuehfu@cc.ncu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"傅琇悅","學校":"國立中央大學諮商中心","地區":"D桃園","identify":"諮商心理師","topics":["生涯議題","情緒管理","人際關係議題","壓力調適"],"unit":["即將更新"],"Email":"yuehfu@cc.ncu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"黃景珩","學校":"國立中央大學諮商中心","地區":"D桃園","identify":"諮商心理師","topics":["情感關係議題","性別議題","生涯議題","人際關係議題"],"unit":"即將更新","Email":"annieh@cc.ncu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"黃景珩","學校":"國立中央大學諮商中心","地區":"D桃園","identify":"諮商心理師","topics":["情感關係議題","性別議題","生涯議題","人際關係議題"],"unit":["即將更新"],"Email":"annieh@cc.ncu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"謝秀貞","學校":"國立中央大學諮商中心","地區":"D桃園","identify":"諮商心理師","topics":["情感關係議題","生涯議題","家庭關係議題","自我探索","情緒管理"],"unit":"即將更新","Email":"showjane@cc.ncu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"謝秀貞","學校":"國立中央大學諮商中心","地區":"D桃園","identify":"諮商心理師","topics":["情感關係議題","生涯議題","家庭關係議題","自我探索","情緒管理"],"unit":["即將更新"],"Email":"showjane@cc.ncu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"閔肖蔓","學校":"國立中央大學諮商中心","地區":"D桃園","identify":"諮商心理師","topics":["情感關係議題","性別議題","家庭關係議題","生涯議題","人際關係議題"],"unit":"即將更新","Email":"rosana@cc.ncu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"閔肖蔓","學校":"國立中央大學諮商中心","地區":"D桃園","identify":"諮商心理師","topics":["情感關係議題","性別議題","家庭關係議題","生涯議題","人際關係議題"],"unit":["即將更新"],"Email":"rosana@cc.ncu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"方珮馨","學校":"國立中央大學諮商中心","地區":"D桃園","identify":"社工師","topics":["自我探索","人際關係議題","生涯議題"],"unit":"管理學院、工學院、客家學院、生醫理工學院","Email":"peihsin@ncu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"方珮馨","學校":"國立中央大學諮商中心","地區":"D桃園","identify":"社工師","topics":["自我探索","人際關係議題","生涯議題"],"unit":["管理學院","工學院","客家學院","生醫理工學院"],"Email":"peihsin@ncu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"黃麗君","學校":"國立中央大學諮商中心","地區":"D桃園","identify":"社工師","topics":["自我探索","人際關係議題","家庭關係議題"],"unit":"資電、文學、理學、地科、太空遙測學程","Email":"ljune@ncu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"黃麗君","學校":"國立中央大學諮商中心","地區":"D桃園","identify":"社工師","topics":["自我探索","人際關係議題","家庭關係議題"],"unit":["資電","文學","理學","地科","太空遙測學程"],"Email":"ljune@ncu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     
         ]
     },
     {
         "school":"國立清華大學",
         "psychologists":[
-            {"name":"陳美如","學校":"國立清華大學諮商中心","地區":"E新竹","identify":"臨床心理師","topics":["自我探索","情緒管理","人際關係議題"],"unit":"校本部","Email":"mjchen@mx.nthu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"陳美如","學校":"國立清華大學諮商中心","地區":"E新竹","identify":"臨床心理師","topics":["自我探索","情緒管理","人際關係議題"],"unit":["校本部"],"Email":"mjchen@mx.nthu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"吳雅慧","學校":"國立清華大學諮商中心","地區":"E新竹","identify":"諮商心理師","topics":["自我探索","人際關係議題","壓力調適","情緒管理"],"unit":"校本部","Email":"wuyh@mx.nthu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"吳雅慧","學校":"國立清華大學諮商中心","地區":"E新竹","identify":"諮商心理師","topics":["自我探索","人際關係議題","壓力調適","情緒管理"],"unit":["校本部"],"Email":"wuyh@mx.nthu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"高祺淳","學校":"國立清華大學諮商中心","地區":"E新竹","identify":"諮商心理師","topics":["生涯議題","情緒管理","情感關係議題","人際關係議題","家庭關係議題","卡牌/塔羅牌"],"unit":"校本部","Email":"chichun@mx.nthu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"高祺淳","學校":"國立清華大學諮商中心","地區":"E新竹","identify":"諮商心理師","topics":["生涯議題","情緒管理","情感關係議題","人際關係議題","家庭關係議題","卡牌/塔羅牌"],"unit":["校本部"],"Email":"chichun@mx.nthu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"張歆昀","學校":"國立清華大學諮商中心","地區":"E新竹","identify":"諮商心理師","topics":["情感關係議題","人際關係議題","家庭關係議題","情緒管理","動力取向"],"unit":"校本部","Email":"changhy@mx.nthu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"張歆昀","學校":"國立清華大學諮商中心","地區":"E新竹","identify":"諮商心理師","topics":["情感關係議題","人際關係議題","家庭關係議題","情緒管理","動力取向"],"unit":["校本部"],"Email":"changhy@mx.nthu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"詹惠竹","學校":"國立清華大學諮商中心","地區":"E新竹","identify":"諮商心理師","topics":["自我探索","人際關係議題","情感關係議題","家庭關係議題","生涯議題","表達性藝術"],"unit":"校本部","Email":"huichu@mx.nthu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"詹惠竹","學校":"國立清華大學諮商中心","地區":"E新竹","identify":"諮商心理師","topics":["自我探索","人際關係議題","情感關係議題","家庭關係議題","生涯議題","表達性藝術"],"unit":["校本部"],"Email":"huichu@mx.nthu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"謝慧馨","學校":"國立清華大學諮商中心","地區":"E新竹","identify":"諮商心理師","topics":["身心症狀","情緒管理","壓力調適","人際關係議題","生涯議題"],"unit":"校本部","Email":"hshsieh@mx.nthu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"謝慧馨","學校":"國立清華大學諮商中心","地區":"E新竹","identify":"諮商心理師","topics":["身心症狀","情緒管理","壓力調適","人際關係議題","生涯議題"],"unit":["校本部"],"Email":"hshsieh@mx.nthu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"李雅惠","學校":"國立清華大學諮商中心","地區":"E新竹","identify":"社工師","topics":["自我探索","性別議題","人際關係議題","悲傷失落與創傷調適","家暴","性侵害"],"unit":"校本部","Email":"yahlee@mx.nthu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"李雅惠","學校":"國立清華大學諮商中心","地區":"E新竹","identify":"社工師","topics":["自我探索","性別議題","人際關係議題","悲傷失落與創傷調適","家暴","性侵害"],"unit":["校本部"],"Email":"yahlee@mx.nthu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"李翠華","學校":"國立清華大學諮商中心","地區":"E新竹","identify":"社工師","topics":["自我探索","人際關係議題","家庭關係議題","情感關係議題","多元文化","其他"],"unit":"校本部","Email":"tshlee@mx.nthu.edu.tw","Notes 2":"其他：沙遊治療","Attachments":"","Status":""}
+    {"name":"李翠華","學校":"國立清華大學諮商中心","地區":"E新竹","identify":"社工師","topics":["自我探索","人際關係議題","家庭關係議題","情感關係議題","多元文化","其他"],"unit":["校本部"],"Email":"tshlee@mx.nthu.edu.tw","Notes 2":"其他：沙遊治療","Attachments":"","Status":""}
     ,
-    {"name":"楊雅婷","學校":"國立清華大學諮商中心","地區":"E新竹","identify":"諮商心理師","topics":["情感關係議題","人際關係議題","壓力調適","情緒管理","課業學習"],"unit":"南大校區","Email":"yangyating@mx.nthu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"楊雅婷","學校":"國立清華大學諮商中心","地區":"E新竹","identify":"諮商心理師","topics":["情感關係議題","人際關係議題","壓力調適","情緒管理","課業學習"],"unit":["南大校區"],"Email":"yangyating@mx.nthu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"鄭詩蓉","學校":"國立清華大學諮商中心","地區":"E新竹","identify":"諮商心理師","topics":["生涯議題","情感關係議題","自我探索","情緒管理","壓力調適"],"unit":"南大校區","Email":"shihjung@mx.nthu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"鄭詩蓉","學校":"國立清華大學諮商中心","地區":"E新竹","identify":"諮商心理師","topics":["生涯議題","情感關係議題","自我探索","情緒管理","壓力調適"],"unit":["南大校區"],"Email":"shihjung@mx.nthu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"賴姳臻","學校":"國立清華大學諮商中心","地區":"E新竹","identify":"諮商心理師","topics":["伴侶","自我探索","家庭關係議題","情感關係議題","生涯議題","課業學習"],"unit":"南大校區","Email":"minzan@gapp.nthu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"賴姳臻","學校":"國立清華大學諮商中心","地區":"E新竹","identify":"諮商心理師","topics":["伴侶","自我探索","家庭關係議題","情感關係議題","生涯議題","課業學習"],"unit":["南大校區"],"Email":"minzan@gapp.nthu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     
         ]
     },
     {
         "school":"國立陽明交通大學",
         "psychologists":[
-            {"name":"盧怡任","學校":"國立陽明交通大學","地區":"E新竹","identify":"諮商心理師","topics":["自我探索","人際關係議題","情感關係議題","生涯議題","存在取向"],"unit":"即將更新","Email":"matt7075@nctu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"盧怡任","學校":"國立陽明交通大學","地區":"E新竹","identify":"諮商心理師","topics":["自我探索","人際關係議題","情感關係議題","生涯議題","存在取向"],"unit":["即將更新"],"Email":"matt7075@nctu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"許鶯珠","學校":"國立陽明交通大學","地區":"E新竹","identify":"諮商心理師","topics":["生涯議題","情緒管理","壓力調適","悲傷失落與創傷調適"],"unit":"即將更新","Email":"ingju@cc.nctu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"許鶯珠","學校":"國立陽明交通大學","地區":"E新竹","identify":"諮商心理師","topics":["生涯議題","情緒管理","壓力調適","悲傷失落與創傷調適"],"unit":["即將更新"],"Email":"ingju@cc.nctu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"楊大和","學校":"國立陽明交通大學","地區":"E新竹","identify":"臨床心理師","topics":["悲傷失落與創傷調適","伴侶","性侵害","精神分析"],"unit":"即將更新","Email":"t0713@nctu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"楊大和","學校":"國立陽明交通大學","地區":"E新竹","identify":"臨床心理師","topics":["悲傷失落與創傷調適","伴侶","性侵害","精神分析"],"unit":["即將更新"],"Email":"t0713@nctu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"陳庭美","學校":"國立陽明交通大學","地區":"E新竹","identify":"諮商心理師","topics":["自我探索","人際關係議題","情感關係議題","生涯議題"],"unit":"即將更新","Email":"tingmei@nctu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"陳庭美","學校":"國立陽明交通大學","地區":"E新竹","identify":"諮商心理師","topics":["自我探索","人際關係議題","情感關係議題","生涯議題"],"unit":["即將更新"],"Email":"tingmei@nctu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"卜怡凌","學校":"國立陽明交通大學","地區":"E新竹","identify":"諮商心理師","topics":["自我探索","情感關係議題","人際關係議題","卡牌/塔羅牌"],"unit":"即將更新","Email":"puyo824@nctu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"卜怡凌","學校":"國立陽明交通大學","地區":"E新竹","identify":"諮商心理師","topics":["自我探索","情感關係議題","人際關係議題","卡牌/塔羅牌"],"unit":["即將更新"],"Email":"puyo824@nctu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"何政勳","學校":"國立陽明交通大學","地區":"E新竹","identify":"諮商心理師","topics":["生涯議題","人際關係議題","情緒管理","壓力調適","自我探索","特教生"],"unit":"即將更新","Email":"csho@nctu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"何政勳","學校":"國立陽明交通大學","地區":"E新竹","identify":"諮商心理師","topics":["生涯議題","人際關係議題","情緒管理","壓力調適","自我探索","特教生"],"unit":["即將更新"],"Email":"csho@nctu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"吳立妍","學校":"國立陽明交通大學","地區":"E新竹","identify":"諮商心理師","topics":["外籍生","情感關係議題","性別議題","自我探索","悲傷失落與創傷調適"],"unit":"即將更新","Email":"liyenwu@nctu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"吳立妍","學校":"國立陽明交通大學","地區":"E新竹","identify":"諮商心理師","topics":["外籍生","情感關係議題","性別議題","自我探索","悲傷失落與創傷調適"],"unit":["即將更新"],"Email":"liyenwu@nctu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"汪承宏","學校":"國立陽明交通大學","地區":"E新竹","identify":"諮商心理師","topics":["生涯議題","家庭關係議題","情緒管理"],"unit":"即將更新","Email":"chenhungwang@hotmail.com","Notes 2":"","Attachments":"","Status":""}
+    {"name":"汪承宏","學校":"國立陽明交通大學","地區":"E新竹","identify":"諮商心理師","topics":["生涯議題","家庭關係議題","情緒管理"],"unit":["即將更新"],"Email":"chenhungwang@hotmail.com","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"林鈺傑","學校":"國立陽明交通大學","地區":"E新竹","identify":"諮商心理師","topics":["自我探索","情緒管理","壓力調適","生涯議題","情感關係議題"],"unit":"即將更新","Email":"linuyja@nctu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"林鈺傑","學校":"國立陽明交通大學","地區":"E新竹","identify":"諮商心理師","topics":["自我探索","情緒管理","壓力調適","生涯議題","情感關係議題"],"unit":["即將更新"],"Email":"linuyja@nctu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"張郁雯","學校":"國立陽明交通大學","地區":"E新竹","identify":"諮商心理師","topics":["睡眠問題","情感關係議題","時間管理","自我探索","壓力調適","人際關係議題"],"unit":"即將更新","Email":"bomy@nctu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"張郁雯","學校":"國立陽明交通大學","地區":"E新竹","identify":"諮商心理師","topics":["睡眠問題","情感關係議題","時間管理","自我探索","壓力調適","人際關係議題"],"unit":["即將更新"],"Email":"bomy@nctu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"陳亭宇","學校":"國立陽明交通大學","地區":"E新竹","identify":"諮商心理師","topics":["情緒管理","完形取向","人際關係議題","情感關係議題","悲傷失落與創傷調適","表達性藝術"],"unit":"即將更新","Email":"d0703@nctu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"陳亭宇","學校":"國立陽明交通大學","地區":"E新竹","identify":"諮商心理師","topics":["情緒管理","完形取向","人際關係議題","情感關係議題","悲傷失落與創傷調適","表達性藝術"],"unit":["即將更新"],"Email":"d0703@nctu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"陳庭美","學校":"國立陽明交通大學","地區":"E新竹","identify":"諮商心理師","topics":["自我探索","人際關係議題","情感關係議題","生涯議題"],"unit":"即將更新","Email":"tingmei@nctu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"陳庭美","學校":"國立陽明交通大學","地區":"E新竹","identify":"諮商心理師","topics":["自我探索","人際關係議題","情感關係議題","生涯議題"],"unit":["即將更新"],"Email":"tingmei@nctu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"陳偉婷","學校":"國立陽明交通大學","地區":"E新竹","identify":"諮商心理師","topics":["自我探索","壓力調適","情緒管理","人際關係議題","薩提爾家族治療"],"unit":"即將更新","Email":"chenweiting@nctu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"陳偉婷","學校":"國立陽明交通大學","地區":"E新竹","identify":"諮商心理師","topics":["自我探索","壓力調適","情緒管理","人際關係議題","薩提爾家族治療"],"unit":["即將更新"],"Email":"chenweiting@nctu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"彭思蓉","學校":"國立陽明交通大學","地區":"E新竹","identify":"諮商心理師","topics":["自我探索","壓力調適","情緒管理","家庭關係議題","生涯議題","卡牌/塔羅牌"],"unit":"即將更新","Email":"ninita@nctu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"彭思蓉","學校":"國立陽明交通大學","地區":"E新竹","identify":"諮商心理師","topics":["自我探索","壓力調適","情緒管理","家庭關係議題","生涯議題","卡牌/塔羅牌"],"unit":["即將更新"],"Email":"ninita@nctu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"曾晴","學校":"國立陽明交通大學","地區":"E新竹","identify":"諮商心理師","topics":["自我探索","壓力調適","情緒管理","生涯議題","情感關係議題","生活適應","特教生"],"unit":"即將更新","Email":"sunnytseng0702@nctu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"曾晴","學校":"國立陽明交通大學","地區":"E新竹","identify":"諮商心理師","topics":["自我探索","壓力調適","情緒管理","生涯議題","情感關係議題","生活適應","特教生"],"unit":["即將更新"],"Email":"sunnytseng0702@nctu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"劉庭瑜","學校":"國立陽明交通大學","地區":"E新竹","identify":"諮商心理師","topics":["自我探索","情緒管理","壓力調適","情感關係議題","家庭關係議題"],"unit":"即將更新","Email":"loveinlight@nctu.edu.tw","Notes 2":"","Attachments":"","Status":""}
-    ,{"name":"鄭家揚","學校":"國立陽明交通大學","地區":"E新竹","identify":"諮商心理師","topics":["自我探索","生涯議題","性別議題","夢境解析","其他"],"unit":"即將更新","Email":"e00007@nycu.edu.tw","Notes 2":"其他：運動心理、流行音樂療癒","Attachments":"","Status":""}
+    {"name":"劉庭瑜","學校":"國立陽明交通大學","地區":"E新竹","identify":"諮商心理師","topics":["自我探索","情緒管理","壓力調適","情感關係議題","家庭關係議題"],"unit":["即將更新"],"Email":"loveinlight@nctu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    ,{"name":"鄭家揚","學校":"國立陽明交通大學","地區":"E新竹","identify":"諮商心理師","topics":["自我探索","生涯議題","性別議題","夢境解析","其他"],"unit":["即將更新"],"Email":"e00007@nycu.edu.tw","Notes 2":"其他：運動心理、流行音樂療癒","Attachments":"","Status":""}
     
         ]
     },
     {
         "school":"國立中興大學",
         "psychologists":[
-            {"name":"林育如","學校":"國立中興大學","地區":"G台中","identify":"諮商心理師","topics":["自我探索","人際關係議題","情感關係議題","情緒管理"],"unit":"即將更新","Email":"counsel@nchu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"林育如","學校":"國立中興大學","地區":"G台中","identify":"諮商心理師","topics":["自我探索","人際關係議題","情感關係議題","情緒管理"],"unit":["即將更新"],"Email":"counsel@nchu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"李宥萱","學校":"國立中興大學","地區":"G台中","identify":"諮商心理師","topics":["壓力調適","自我探索","人際關係議題","性別議題"],"unit":"即將更新","Email":"counsel@nchu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"李宥萱","學校":"國立中興大學","地區":"G台中","identify":"諮商心理師","topics":["壓力調適","自我探索","人際關係議題","性別議題"],"unit":["即將更新"],"Email":"counsel@nchu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"湯必果","學校":"國立中興大學","地區":"G台中","identify":"諮商心理師","topics":["自我探索","人際關係議題","生涯議題","情緒管理","壓力調適","情感關係議題"],"unit":"即將更新","Email":"counsel@nchu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"湯必果","學校":"國立中興大學","地區":"G台中","identify":"諮商心理師","topics":["自我探索","人際關係議題","生涯議題","情緒管理","壓力調適","情感關係議題"],"unit":["即將更新"],"Email":"counsel@nchu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"賴佳樺","學校":"國立中興大學","地區":"G台中","identify":"諮商心理師","topics":["自我探索","生涯議題","人際關係議題","性別議題"],"unit":"即將更新","Email":"counsel@nchu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"賴佳樺","學校":"國立中興大學","地區":"G台中","identify":"諮商心理師","topics":["自我探索","生涯議題","人際關係議題","性別議題"],"unit":["即將更新"],"Email":"counsel@nchu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"洪育偉","學校":"國立中興大學","地區":"G台中","identify":"諮商心理師","topics":["自我探索","人際關係議題","生涯議題","情感關係議題","壓力調適"],"unit":"即將更新","Email":"counsel@nchu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"洪育偉","學校":"國立中興大學","地區":"G台中","identify":"諮商心理師","topics":["自我探索","人際關係議題","生涯議題","情感關係議題","壓力調適"],"unit":["即將更新"],"Email":"counsel@nchu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"謝文軒","學校":"國立中興大學","地區":"G台中","identify":"諮商心理師","topics":["自我探索","生涯議題","人際關係議題","情緒管理"],"unit":"即將更新","Email":"counsel@nchu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"謝文軒","學校":"國立中興大學","地區":"G台中","identify":"諮商心理師","topics":["自我探索","生涯議題","人際關係議題","情緒管理"],"unit":["即將更新"],"Email":"counsel@nchu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"徐子宸","學校":"國立中興大學","地區":"G台中","identify":"諮商心理師","topics":["自我探索","生涯議題","人際關係議題","性別議題","情感關係議題","壓力調適"],"unit":"即將更新","Email":"counsel@nchu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"徐子宸","學校":"國立中興大學","地區":"G台中","identify":"諮商心理師","topics":["自我探索","生涯議題","人際關係議題","性別議題","情感關係議題","壓力調適"],"unit":["即將更新"],"Email":"counsel@nchu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     
         ]
     },
@@ -794,216 +794,216 @@
     {
         "school":"國立臺中科技大學",
         "psychologists":[
-            {"name":"林淑敏","學校":"國立臺中科技大學","地區":"G台中","identify":"諮商心理師","topics":["即將更新"],"unit":"語文學院","Email":"smlinsmlin@nutc.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"林淑敏","學校":"國立臺中科技大學","地區":"G台中","identify":"諮商心理師","topics":["即將更新"],"unit":["語文學院"],"Email":"smlinsmlin@nutc.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"蔡易辰","學校":"國立臺中科技大學","地區":"G台中","identify":"諮商心理師","topics":["即將更新"],"unit":"設計學院","Email":"easyup@nutc.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"蔡易辰","學校":"國立臺中科技大學","地區":"G台中","identify":"諮商心理師","topics":["即將更新"],"unit":["設計學院"],"Email":"easyup@nutc.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"翁瑋鍼","學校":"國立臺中科技大學","地區":"G台中","identify":"諮商心理師","topics":["即將更新"],"unit":"商學院:企管、財金、休閒","Email":"evelynweng@nutc.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"翁瑋鍼","學校":"國立臺中科技大學","地區":"G台中","identify":"諮商心理師","topics":["即將更新"],"unit":["商學院(企管、財金、休閒)"],"Email":"evelynweng@nutc.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"王雅婷","學校":"國立臺中科技大學","地區":"G台中","identify":"諮商心理師","topics":["即將更新"],"unit":"資訊與流通學院、智慧產業學院","Email":"ytw@nutc.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"王雅婷","學校":"國立臺中科技大學","地區":"G台中","identify":"諮商心理師","topics":["即將更新"],"unit":["資訊與流通學院","智慧產業學院"],"Email":"ytw@nutc.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"陳葦玲","學校":"國立臺中科技大學","地區":"G台中","identify":"諮商心理師","topics":["即將更新"],"unit":"商學院：會資、財稅","Email":"wlchen@nutc.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"陳葦玲","學校":"國立臺中科技大學","地區":"G台中","identify":"諮商心理師","topics":["即將更新"],"unit":["商學院(會資、財稅)"],"Email":"wlchen@nutc.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"周永昌","學校":"國立臺中科技大學","地區":"G台中","identify":"諮商心理師","topics":["即將更新"],"unit":"商學院：國貿、保金、應統、原住民中心","Email":"erichou@nutc.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"周永昌","學校":"國立臺中科技大學","地區":"G台中","identify":"諮商心理師","topics":["即將更新"],"unit":["商學院(國貿、保金、應統、原住民中心)"],"Email":"erichou@nutc.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"許哲瑋","學校":"國立臺中科技大學","地區":"G台中","identify":"諮商心理師","topics":["即將更新"],"unit":"進修部","Email":"hcwei@nutc.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"許哲瑋","學校":"國立臺中科技大學","地區":"G台中","identify":"諮商心理師","topics":["即將更新"],"unit":["進修部"],"Email":"hcwei@nutc.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"賴書平","學校":"國立臺中科技大學","地區":"G台中","identify":"諮商心理師","topics":["即將更新"],"unit":"中護健康學院","Email":"spsplai@nutc.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"賴書平","學校":"國立臺中科技大學","地區":"G台中","identify":"諮商心理師","topics":["即將更新"],"unit":["中護健康學院"],"Email":"spsplai@nutc.edu.tw","Notes 2":"","Attachments":"","Status":""}
     
         ]
     },
     {
         "school":"朝陽科技大學學生發展中心",
         "psychologists":[
-            {"name":"洪碧卿","學校":"朝陽科技大學","地區":"G台中","identify":"社工師","topics":["即將更新"],"unit":"即將更新","Email":"piching@cyut.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"洪碧卿","學校":"朝陽科技大學","地區":"G台中","identify":"社工師","topics":["即將更新"],"unit":["即將更新"],"Email":"piching@cyut.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"羅筠雅","學校":"朝陽科技大學","地區":"G台中","identify":"社工師","topics":["即將更新"],"unit":"境外學生","Email":"yunya@cyut.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"羅筠雅","學校":"朝陽科技大學","地區":"G台中","identify":"社工師","topics":["即將更新"],"unit":["境外學生"],"Email":"yunya@cyut.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"李哲麟","學校":"朝陽科技大學","地區":"G台中","identify":"諮商心理師","topics":["即將更新"],"unit":"即將更新","Email":"zllee@cyut.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"李哲麟","學校":"朝陽科技大學","地區":"G台中","identify":"諮商心理師","topics":["即將更新"],"unit":["即將更新"],"Email":"zllee@cyut.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"林冠佑","學校":"朝陽科技大學","地區":"G台中","identify":"諮商心理師","topics":["即將更新"],"unit":"管理學院(企管系、保金系、會計系、行銷系、銀管系)","Email":"kuanyukk@cyut.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"林冠佑","學校":"朝陽科技大學","地區":"G台中","identify":"諮商心理師","topics":["即將更新"],"unit":["管理學院(企管系、保金系、會計系、行銷系、銀管系)"],"Email":"kuanyukk@cyut.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"洪凱婷","學校":"朝陽科技大學","地區":"G台中","identify":"諮商心理師","topics":["即將更新"],"unit":"人文暨社會學院","Email":"kthung@cyut.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"洪凱婷","學校":"朝陽科技大學","地區":"G台中","identify":"諮商心理師","topics":["即將更新"],"unit":["人文暨社會學院"],"Email":"kthung@cyut.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"陳詩婷","學校":"朝陽科技大學","地區":"G台中","identify":"諮商心理師","topics":["即將更新"],"unit":"設計學院(+財經系)","Email":"stchen@cyut.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"陳詩婷","學校":"朝陽科技大學","地區":"G台中","identify":"諮商心理師","topics":["即將更新"],"unit":["設計學院(+財經系)"],"Email":"stchen@cyut.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"吳建緯","學校":"朝陽科技大學","地區":"G台中","identify":"諮商心理師","topics":["即將更新"],"unit":"理工學院(+休閒系)","Email":"drummerwu@cyut.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"吳建緯","學校":"朝陽科技大學","地區":"G台中","identify":"諮商心理師","topics":["即將更新"],"unit":["理工學院(+休閒系)"],"Email":"drummerwu@cyut.edu.tw","Notes 2":"","Attachments":"","Status":""}
     
         ]
     },
     {
         "school":"東海大學",
         "psychologists":[
-            {"name":"張意真","學校":"東海大學健康暨諮商中心","地區":"G台中","identify":"社工師,諮商心理師","topics":["自我探索","人際關係議題","性別議題"],"unit":"中心主任\n","Email":"icheng@thu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"張意真","學校":"東海大學健康暨諮商中心","地區":"G台中","identify":"社工師,諮商心理師","topics":["自我探索","人際關係議題","性別議題"],"unit":["中心主任\n"],"Email":"icheng@thu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"呂素卿","學校":"東海大學健康暨諮商中心","地區":"G台中","identify":"社工師","topics":["自我探索","人際關係議題"],"unit":"文學院(外文系、歷史系、哲學系)","Email":"jessie@thu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"呂素卿","學校":"東海大學健康暨諮商中心","地區":"G台中","identify":"社工師","topics":["自我探索","人際關係議題"],"unit":["文學院(外文系、歷史系、哲學系)"],"Email":"jessie@thu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"陳心怡","學校":"東海大學健康暨諮商中心","地區":"G台中","identify":"諮商心理師","topics":["其他"],"unit":"社會科學院(社工系、政治系)","Email":"chicken23058@thu.edu.tw","Notes 2":"團體工作、財務教育與諮詢","Attachments":"","Status":""}
+    {"name":"陳心怡","學校":"東海大學健康暨諮商中心","地區":"G台中","identify":"諮商心理師","topics":["其他"],"unit":["社會科學院(社工系、政治系)"],"Email":"chicken23058@thu.edu.tw","Notes 2":"團體工作、財務教育與諮詢","Attachments":"","Status":""}
     ,
-    {"name":"林莉芳","學校":"東海大學健康暨諮商中心","地區":"G台中","identify":"諮商心理師","topics":["自我探索","生涯議題","性別議題"],"unit":"理學院","Email":"vivuan@thu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"林莉芳","學校":"東海大學健康暨諮商中心","地區":"G台中","identify":"諮商心理師","topics":["自我探索","生涯議題","性別議題"],"unit":["理學院"],"Email":"vivuan@thu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"林世鴻","學校":"東海大學健康暨諮商中心","地區":"G台中","identify":"諮商心理師","topics":["成癮問題","其他"],"unit":"創意設計暨藝術學院","Email":"ausubel@thu.edu.tw","Notes 2":"中輟生輔導與諮商","Attachments":"","Status":""}
+    {"name":"林世鴻","學校":"東海大學健康暨諮商中心","地區":"G台中","identify":"諮商心理師","topics":["成癮問題","其他"],"unit":["創意設計暨藝術學院"],"Email":"ausubel@thu.edu.tw","Notes 2":"中輟生輔導與諮商","Attachments":"","Status":""}
     ,
-    {"name":"林敬宜","學校":"東海大學健康暨諮商中心","地區":"G台中","identify":"諮商心理師","topics":["多元文化","生活適應"],"unit":"管理學院、國際學院","Email":"cilin@thu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"林敬宜","學校":"東海大學健康暨諮商中心","地區":"G台中","identify":"諮商心理師","topics":["多元文化","生活適應"],"unit":["管理學院","國際學院"],"Email":"cilin@thu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"陳海山","學校":"東海大學健康暨諮商中心","地區":"G台中","identify":"諮商心理師","topics":["人際關係議題","情緒管理","自我探索","性別議題"],"unit":"社會科學院(經濟系、社會系、行政系、教育研究所)","Email":"haishan@thu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"陳海山","學校":"東海大學健康暨諮商中心","地區":"G台中","identify":"諮商心理師","topics":["人際關係議題","情緒管理","自我探索","性別議題"],"unit":["社會科學院(經濟系、社會系、行政系、教育研究所)"],"Email":"haishan@thu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"陳鈺惠","學校":"東海大學健康暨諮商中心","地區":"G台中","identify":"諮商心理師","topics":["自我探索"],"unit":"農學院、法律學院","Email":"cyh13@thu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"陳鈺惠","學校":"東海大學健康暨諮商中心","地區":"G台中","identify":"諮商心理師","topics":["自我探索"],"unit":["農學院","法律學院"],"Email":"cyh13@thu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"張銓","學校":"東海大學健康暨諮商中心","地區":"G台中","identify":"諮商心理師","topics":["伴侶"],"unit":"工學院","Email":"beckham0613@thu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"張銓","學校":"東海大學健康暨諮商中心","地區":"G台中","identify":"諮商心理師","topics":["伴侶"],"unit":["工學院"],"Email":"beckham0613@thu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"黃馨慧","學校":"東海大學健康暨諮商中心","地區":"G台中","identify":"諮商心理師","topics":["自我探索"],"unit":"文學院(中文系、日文系)","Email":"sinhuei@thu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"黃馨慧","學校":"東海大學健康暨諮商中心","地區":"G台中","identify":"諮商心理師","topics":["自我探索"],"unit":["文學院(中文系、日文系)"],"Email":"sinhuei@thu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     
         ]
     },
     {
         "school":"逢甲大學",
         "psychologists":[
-            {"name":"紀娙宜","學校":"逢甲大學諮商輔導中心","地區":"G台中","identify":"諮商心理師","topics":["即將更新"],"unit":"工程與科學學院","Email":"","Notes 2":"","Attachments":"","Status":""}
+            {"name":"紀娙宜","學校":"逢甲大學諮商輔導中心","地區":"G台中","identify":"諮商心理師","topics":["即將更新"],"unit":["工程與科學學院"],"Email":"","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"倪凡羽","學校":"逢甲大學諮商輔導中心","地區":"G台中","identify":"諮商心理師","topics":["即將更新"],"unit":"工程與科學學院","Email":"","Notes 2":"","Attachments":"","Status":""}
+    {"name":"倪凡羽","學校":"逢甲大學諮商輔導中心","地區":"G台中","identify":"諮商心理師","topics":["即將更新"],"unit":["工程與科學學院"],"Email":"","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"蔡佳玲","學校":"逢甲大學諮商輔導中心","地區":"G台中","identify":"諮商心理師","topics":["即將更新"],"unit":"國科館、經管、人社、國際生大一不分系","Email":"","Notes 2":"","Attachments":"","Status":""}
+    {"name":"蔡佳玲","學校":"逢甲大學諮商輔導中心","地區":"G台中","identify":"諮商心理師","topics":["即將更新"],"unit":["國科館","經管","人社","國際生大一不分系"],"Email":"","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"李俊龍","學校":"逢甲大學諮商輔導中心","地區":"G台中","identify":"諮商心理師","topics":["即將更新"],"unit":"建設、建築專業學院","Email":"","Notes 2":"","Attachments":"","Status":""}
+    {"name":"李俊龍","學校":"逢甲大學諮商輔導中心","地區":"G台中","identify":"諮商心理師","topics":["即將更新"],"unit":["建設","建築專業學院"],"Email":"","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"孫羽佩","學校":"逢甲大學諮商輔導中心","地區":"G台中","identify":"諮商心理師","topics":["即將更新"],"unit":"金融、工程與科學學院","Email":"","Notes 2":"","Attachments":"","Status":""}
+    {"name":"孫羽佩","學校":"逢甲大學諮商輔導中心","地區":"G台中","identify":"諮商心理師","topics":["即將更新"],"unit":["金融","工程與科學學院"],"Email":"","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"黃莉棋","學校":"逢甲大學諮商輔導中心","地區":"G台中","identify":"諮商心理師","topics":["即將更新"],"unit":"商學院","Email":"","Notes 2":"","Attachments":"","Status":""}
+    {"name":"黃莉棋","學校":"逢甲大學諮商輔導中心","地區":"G台中","identify":"諮商心理師","topics":["即將更新"],"unit":["商學院"],"Email":"","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"徐琳雅","學校":"逢甲大學諮商輔導中心","地區":"G台中","identify":"諮商心理師","topics":["即將更新"],"unit":"資電學院","Email":"","Notes 2":"","Attachments":"","Status":""}
+    {"name":"徐琳雅","學校":"逢甲大學諮商輔導中心","地區":"G台中","identify":"諮商心理師","topics":["即將更新"],"unit":["資電學院"],"Email":"","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"張喻婷","學校":"逢甲大學諮商輔導中心","地區":"G台中","identify":"社工師","topics":["即將更新"],"unit":"即將更新","Email":"","Notes 2":"","Attachments":"","Status":""}
+    {"name":"張喻婷","學校":"逢甲大學諮商輔導中心","地區":"G台中","identify":"社工師","topics":["即將更新"],"unit":["即將更新"],"Email":"","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"蔡韻如","學校":"逢甲大學諮商輔導中心","地區":"G台中","identify":"社工師","topics":["即將更新"],"unit":"即將更新","Email":"","Notes 2":"","Attachments":"","Status":""}
+    {"name":"蔡韻如","學校":"逢甲大學諮商輔導中心","地區":"G台中","identify":"社工師","topics":["即將更新"],"unit":["即將更新"],"Email":"","Notes 2":"","Attachments":"","Status":""}
         ]
     },
     {
         "school":"國立彰化師範大學",
         "psychologists":[
-            {"name":"陳嬿任","學校":"國立彰化師範大學 學生心理諮商與輔導中心","地區":"H彰化","identify":"諮商心理師","topics":["即將更新"],"unit":"即將更新","Email":"yrchen@cc.ncue.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"陳嬿任","學校":"國立彰化師範大學 學生心理諮商與輔導中心","地區":"H彰化","identify":"諮商心理師","topics":["即將更新"],"unit":["即將更新"],"Email":"yrchen@cc.ncue.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"林倚萱","學校":"國立彰化師範大學 學生心理諮商與輔導中心","地區":"H彰化","identify":"諮商心理師","topics":["即將更新"],"unit":"即將更新","Email":"linys@cc.ncue.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"林倚萱","學校":"國立彰化師範大學 學生心理諮商與輔導中心","地區":"H彰化","identify":"諮商心理師","topics":["即將更新"],"unit":["即將更新"],"Email":"linys@cc.ncue.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"鄭鈴諭","學校":"國立彰化師範大學 學生心理諮商與輔導中心","地區":"H彰化","identify":"諮商心理師","topics":["即將更新"],"unit":"即將更新","Email":"lingyu@cc.ncue.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"鄭鈴諭","學校":"國立彰化師範大學 學生心理諮商與輔導中心","地區":"H彰化","identify":"諮商心理師","topics":["即將更新"],"unit":["即將更新"],"Email":"lingyu@cc.ncue.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"陳昱憲","學校":"國立彰化師範大學 學生心理諮商與輔導中心","地區":"H彰化","identify":"諮商心理師","topics":["即將更新"],"unit":"即將更新","Email":"yusian@cc.ncue.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"陳昱憲","學校":"國立彰化師範大學 學生心理諮商與輔導中心","地區":"H彰化","identify":"諮商心理師","topics":["即將更新"],"unit":["即將更新"],"Email":"yusian@cc.ncue.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"林恩如","學校":"國立彰化師範大學 學生心理諮商與輔導中心","地區":"H彰化","identify":"諮商心理師","topics":["即將更新"],"unit":"即將更新","Email":"rubie@cc.ncue.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"林恩如","學校":"國立彰化師範大學 學生心理諮商與輔導中心","地區":"H彰化","identify":"諮商心理師","topics":["即將更新"],"unit":["即將更新"],"Email":"rubie@cc.ncue.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"粘文玲","學校":"國立彰化師範大學 學生心理諮商與輔導中心","地區":"H彰化","identify":"諮商心理師","topics":["即將更新"],"unit":"即將更新","Email":"wenling@cc.ncue.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"粘文玲","學校":"國立彰化師範大學 學生心理諮商與輔導中心","地區":"H彰化","identify":"諮商心理師","topics":["即將更新"],"unit":["即將更新"],"Email":"wenling@cc.ncue.edu.tw","Notes 2":"","Attachments":"","Status":""}
     
         ]
     },
     {
         "school":"國立中正大學",
         "psychologists":[
-            {"name":"劉佩瑜","學校":"國立中正大學諮商中心","地區":"K嘉義","identify":"","topics":["即將更新"],"unit":"理學院","Email":"pyliu@ccu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"劉佩瑜","學校":"國立中正大學諮商中心","地區":"K嘉義","identify":"","topics":["即將更新"],"unit":["理學院"],"Email":"pyliu@ccu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"簡匯育","學校":"國立中正大學諮商中心","地區":"K嘉義","identify":"","topics":["即將更新"],"unit":"社會科學院：心理系、社福系、傳播系","Email":"admikeira@ccu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"簡匯育","學校":"國立中正大學諮商中心","地區":"K嘉義","identify":"","topics":["即將更新"],"unit":["社會科學院(心理系、社福系、傳播系)"],"Email":"admikeira@ccu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"朱素芬","學校":"國立中正大學諮商中心","地區":"K嘉義","identify":"","topics":["即將更新"],"unit":"管理學院","Email":"admcsf@ccu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"朱素芬","學校":"國立中正大學諮商中心","地區":"K嘉義","identify":"","topics":["即將更新"],"unit":["管理學院"],"Email":"admcsf@ccu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"劉依玫","學校":"國立中正大學諮商中心","地區":"K嘉義","identify":"","topics":["即將更新"],"unit":"工學院、文學院：外文系、歷史系","Email":"admlim@ccu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"劉依玫","學校":"國立中正大學諮商中心","地區":"K嘉義","identify":"","topics":["即將更新"],"unit":["工學院","文學院(外文系、歷史系)"],"Email":"admlim@ccu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"郭玟伶","學校":"國立中正大學諮商中心","地區":"K嘉義","identify":"","topics":["即將更新"],"unit":"文學院：哲學系、語言所","Email":"adminkwl@ccu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"郭玟伶","學校":"國立中正大學諮商中心","地區":"K嘉義","identify":"","topics":["即將更新"],"unit":["文學院(哲學系、語言所)"],"Email":"adminkwl@ccu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"徐御修","學校":"國立中正大學諮商中心","地區":"K嘉義","identify":"","topics":["即將更新"],"unit":"社會科學院：心理系、社福系、傳播系","Email":"admsys@ccu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"徐御修","學校":"國立中正大學諮商中心","地區":"K嘉義","identify":"","topics":["即將更新"],"unit":["社會科學院(心理系、社福系、傳播系)"],"Email":"admsys@ccu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"陳羿霓","學校":"國立中正大學諮商中心","地區":"K嘉義","identify":"","topics":["即將更新"],"unit":"教育學院及法學院","Email":"admtiao@ccu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"陳羿霓","學校":"國立中正大學諮商中心","地區":"K嘉義","identify":"","topics":["即將更新"],"unit":["教育學院及法學院"],"Email":"admtiao@ccu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     
         ]
     },
     {
         "school":"國立成功大學",
         "psychologists":[
-            {"name":"廖聆岑","學校":"國立成功大學心輔組","地區":"L臺南","identify":"臨床心理師","topics":["自我探索","人際關係議題","情感關係議題","情緒管理","壓力調適","悲傷失落與創傷調適","身心症狀","家庭關係議題","生涯議題","個人中心取向","認知行為取向","存在取向"],"unit":"不分系","Email":"lingchen@mail.ncku.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"廖聆岑","學校":"國立成功大學心輔組","地區":"L臺南","identify":"臨床心理師","topics":["自我探索","人際關係議題","情感關係議題","情緒管理","壓力調適","悲傷失落與創傷調適","身心症狀","家庭關係議題","生涯議題","個人中心取向","認知行為取向","存在取向"],"unit":["不分系"],"Email":"lingchen@mail.ncku.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"張文耀","學校":"國立成功大學心輔組","地區":"L臺南","identify":"臨床心理師","topics":["身心症狀","睡眠問題","焦慮"],"unit":"化工系所、台文系所、歷史系所、數學系所、會計系所、藝術所、考古所、戲劇碩士學位學程、財金所、環醫所、臨醫所、食安所","Email":"gustav@mail.ncku.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"張文耀","學校":"國立成功大學心輔組","地區":"L臺南","identify":"臨床心理師","topics":["身心症狀","睡眠問題","焦慮"],"unit":["化工系所","台文系所","歷史系所","數學系所","會計系所","藝術所","考古所","戲劇碩士學位學程","財金所","環醫所","臨醫所","食安所"],"Email":"gustav@mail.ncku.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"錢靜怡","學校":"國立成功大學心輔組","地區":"L臺南","identify":"諮商心理師","topics":["自我探索","生涯議題","人際關係議題","家庭關係議題","伴侶","情緒管理","壓力調適"],"unit":"中文系所、機械系所、藥學系、生科系所、生技系所、熱植所、臨藥所、生化所、基醫所、藥理所、\n轉譯農業科學博士學位學程","Email":"moneyyi@mail.ncku.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"錢靜怡","學校":"國立成功大學心輔組","地區":"L臺南","identify":"諮商心理師","topics":["自我探索","生涯議題","人際關係議題","家庭關係議題","伴侶","情緒管理","壓力調適"],"unit":["中文系所","機械系所","藥學系","生科系所","生技系所","熱植所","臨藥所","生化所","基醫所","藥理所","\n轉譯農業科學博士學位學程"],"Email":"moneyyi@mail.ncku.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"陳坤毅","學校":"國立成功大學心輔組","地區":"L臺南","identify":"諮商心理師","topics":["認知行為取向","正念","壓力調適","性別議題","家庭關係議題","外籍生"],"unit":"電機系所、工設系所、電腦與通信所、微電子所、創意產業設計所、國經所、尖端材料國際碩士學位學程、奈米積體電路工程博士學位學程、外籍生諮商","Email":"kychen@mail.ncku.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"陳坤毅","學校":"國立成功大學心輔組","地區":"L臺南","identify":"諮商心理師","topics":["認知行為取向","正念","壓力調適","性別議題","家庭關係議題","外籍生"],"unit":["電機系所","工設系所","電腦與通信所","微電子所","創意產業設計所","國經所","尖端材料國際碩士學位學程","奈米積體電路工程博士學位學程","外籍生諮商"],"Email":"kychen@mail.ncku.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"許民憲","學校":"國立成功大學心輔組","地區":"L臺南","identify":"臨床心理師","topics":["情緒管理","壓力調適","正念"],"unit":"即將更新","Email":"z10502046@email.ncku.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"許民憲","學校":"國立成功大學心輔組","地區":"L臺南","identify":"臨床心理師","topics":["情緒管理","壓力調適","正念"],"unit":["即將更新"],"Email":"z10502046@email.ncku.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"龔毅珊","學校":"國立成功大學心輔組","地區":"L臺南","identify":"臨床心理師","topics":["認知行為取向","情緒管理","自我探索","生涯議題","情感關係議題","性別議題","人際關係議題"],"unit":"即將更新","Email":"iskung@mail.ncku.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"龔毅珊","學校":"國立成功大學心輔組","地區":"L臺南","identify":"臨床心理師","topics":["認知行為取向","情緒管理","自我探索","生涯議題","情感關係議題","性別議題","人際關係議題"],"unit":["即將更新"],"Email":"iskung@mail.ncku.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"謝喆瑋","學校":"國立成功大學心輔組","地區":"L臺南","identify":"諮商心理師","topics":["存在取向","自我探索","人際關係議題","情感關係議題","性別議題"],"unit":"即將更新","Email":"jwshie@mail.ncku.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"謝喆瑋","學校":"國立成功大學心輔組","地區":"L臺南","identify":"諮商心理師","topics":["存在取向","自我探索","人際關係議題","情感關係議題","性別議題"],"unit":["即將更新"],"Email":"jwshie@mail.ncku.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"馮莉婷","學校":"國立成功大學心輔組","地區":"L臺南","identify":"諮商心理師","topics":["人際關係議題","家庭關係議題","情感關係議題","自我探索","情緒管理","悲傷失落與創傷調適","性別議題"],"unit":"外文系所、交管系所、醫技系所、職治系所、護理系所、電信管理所、生理所、細胞所、微免所","Email":"leeantelope@gs.ncku.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"馮莉婷","學校":"國立成功大學心輔組","地區":"L臺南","identify":"諮商心理師","topics":["人際關係議題","家庭關係議題","情感關係議題","自我探索","情緒管理","悲傷失落與創傷調適","性別議題"],"unit":["外文系所","交管系所","醫技系所","職治系所","護理系所","電信管理所","生理所","細胞所","微免所"],"Email":"leeantelope@gs.ncku.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"鄭姿屏","學校":"國立成功大學心輔組","地區":"L臺南","identify":"","topics":["自我探索","生涯議題","生活適應","性別議題","情感關係議題","家庭關係議題"],"unit":"能源工程學位學程、航太系所、醫工系所、測量系所、民航所、電漿所、國企所、行醫所、外籍生諮商","Email":"11004031@gs.ncku.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"鄭姿屏","學校":"國立成功大學心輔組","地區":"L臺南","identify":"","topics":["自我探索","生涯議題","生活適應","性別議題","情感關係議題","家庭關係議題"],"unit":["能源工程學位學程","航太系所","醫工系所","測量系所","民航所","電漿所","國企所","行醫所","外籍生諮商"],"Email":"11004031@gs.ncku.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"黃威仁","學校":"國立成功大學心輔組","地區":"L臺南","identify":"","topics":["人際關係議題","認知行為取向","情感關係議題","自我探索","壓力調適","情緒管理"],"unit":"化學系所、光電系所、物理系所、心理系所、法律系所、心智科學原理與應用國際博士學位學程、科技藝術碩士學位學程、跨領域神經科學國際博士學位學程","Email":"11006001@gs.ncku.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"黃威仁","學校":"國立成功大學心輔組","地區":"L臺南","identify":"","topics":["人際關係議題","認知行為取向","情感關係議題","自我探索","壓力調適","情緒管理"],"unit":["化學系所","光電系所","物理系所","心理系所","法律系所","心智科學原理與應用國際博士學位學程","科技藝術碩士學位學程","跨領域神經科學國際博士學位學程"],"Email":"11006001@gs.ncku.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"謝佩玲","學校":"國立成功大學心輔組","地區":"L臺南","identify":"","topics":["生涯議題","情緒管理","自我探索","人際關係議題","情感關係議題","性別議題"],"unit":"工資管系所、統計系所、經濟系所、建築系所、牙醫系、口醫所、資管所、數據科學所、老年所","Email":"11006014@gs.ncku.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"謝佩玲","學校":"國立成功大學心輔組","地區":"L臺南","identify":"","topics":["生涯議題","情緒管理","自我探索","人際關係議題","情感關係議題","性別議題"],"unit":["工資管系所","統計系所","經濟系所","建築系所","牙醫系","口醫所","資管所","數據科學所","老年所"],"Email":"11006014@gs.ncku.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"陳美淑","學校":"國立成功大學心輔組","地區":"L臺南","identify":"","topics":["人際關係議題","情感關係議題","自我探索","生涯議題","情緒管理","壓力調適"],"unit":"醫學系、地科系所、都計系所、資工系所、政治系所、人工智慧科技碩士學位學程、醫資所、健照所","Email":"11008087@gs.ncku.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"陳美淑","學校":"國立成功大學心輔組","地區":"L臺南","identify":"","topics":["人際關係議題","情感關係議題","自我探索","生涯議題","情緒管理","壓力調適"],"unit":["醫學系","地科系所","都計系所","資工系所","政治系所","人工智慧科技碩士學位學程","醫資所","健照所"],"Email":"11008087@gs.ncku.edu.tw","Notes 2":"","Attachments":"","Status":""}
     
         ]
     },
     {
         "school":"國立高雄科技大學",
         "psychologists":[
-            {"name":"康維芬","學校":"國立高雄科技大學","地區":"M高雄","identify":"諮商心理師","topics":["即將更新"],"unit":"建工校區","Email":"karen@nkust.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"康維芬","學校":"國立高雄科技大學","地區":"M高雄","identify":"諮商心理師","topics":["即將更新"],"unit":["建工校區"],"Email":"karen@nkust.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"許惇雅","學校":"國立高雄科技大學","地區":"M高雄","identify":"社工師","topics":["即將更新"],"unit":"建工校區","Email":"tun-ya@nkust.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"許惇雅","學校":"國立高雄科技大學","地區":"M高雄","identify":"社工師","topics":["即將更新"],"unit":["建工校區"],"Email":"tun-ya@nkust.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"魏金桃","學校":"國立高雄科技大學","地區":"M高雄","identify":"諮商心理師","topics":["即將更新"],"unit":"建工校區","Email":"wct@nkust.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"魏金桃","學校":"國立高雄科技大學","地區":"M高雄","identify":"諮商心理師","topics":["即將更新"],"unit":["建工校區"],"Email":"wct@nkust.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"黃庭歡","學校":"國立高雄科技大學","地區":"M高雄","identify":"諮商心理師","topics":["即將更新"],"unit":"建工校區","Email":"showfan789@nkust.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"黃庭歡","學校":"國立高雄科技大學","地區":"M高雄","identify":"諮商心理師","topics":["即將更新"],"unit":["建工校區"],"Email":"showfan789@nkust.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"郭佳瑛","學校":"國立高雄科技大學","地區":"M高雄","identify":"諮商心理師","topics":["即將更新"],"unit":"建工校區","Email":"81501@nkust.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"郭佳瑛","學校":"國立高雄科技大學","地區":"M高雄","identify":"諮商心理師","topics":["即將更新"],"unit":["建工校區"],"Email":"81501@nkust.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"朱傳苓","學校":"國立高雄科技大學","地區":"M高雄","identify":"社工師","topics":["即將更新"],"unit":"建工校區","Email":"emomo69@nkust.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"朱傳苓","學校":"國立高雄科技大學","地區":"M高雄","identify":"社工師","topics":["即將更新"],"unit":["建工校區"],"Email":"emomo69@nkust.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"邱珮雯","學校":"國立高雄科技大學","地區":"M高雄","identify":"社工師","topics":["即將更新"],"unit":"建工校區","Email":"okokok@nkust.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"邱珮雯","學校":"國立高雄科技大學","地區":"M高雄","identify":"社工師","topics":["即將更新"],"unit":["建工校區"],"Email":"okokok@nkust.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"黃玉佳","學校":"國立高雄科技大學","地區":"M高雄","identify":"諮商心理師","topics":["即將更新"],"unit":"燕巢校區","Email":"chocokelly@nkust.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"黃玉佳","學校":"國立高雄科技大學","地區":"M高雄","identify":"諮商心理師","topics":["即將更新"],"unit":["燕巢校區"],"Email":"chocokelly@nkust.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"林芷琪","學校":"國立高雄科技大學","地區":"M高雄","identify":"社工師","topics":["即將更新"],"unit":"燕巢校區","Email":"chi1007@nkust.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"林芷琪","學校":"國立高雄科技大學","地區":"M高雄","identify":"社工師","topics":["即將更新"],"unit":["燕巢校區"],"Email":"chi1007@nkust.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"王俐婷","學校":"國立高雄科技大學","地區":"M高雄","identify":"諮商心理師","topics":["即將更新"],"unit":"楠梓校區","Email":"litydpdp@nkust.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"王俐婷","學校":"國立高雄科技大學","地區":"M高雄","identify":"諮商心理師","topics":["即將更新"],"unit":["楠梓校區"],"Email":"litydpdp@nkust.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"王綉慧","學校":"國立高雄科技大學","地區":"M高雄","identify":"諮商心理師","topics":["即將更新"],"unit":"楠梓校區","Email":"whitefox@nkust.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"王綉慧","學校":"國立高雄科技大學","地區":"M高雄","identify":"諮商心理師","topics":["即將更新"],"unit":["楠梓校區"],"Email":"whitefox@nkust.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"蔡雅芸","學校":"國立高雄科技大學","地區":"M高雄","identify":"諮商心理師","topics":["即將更新"],"unit":"楠梓校區","Email":"kid124kimo@nkust.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"蔡雅芸","學校":"國立高雄科技大學","地區":"M高雄","identify":"諮商心理師","topics":["即將更新"],"unit":["楠梓校區"],"Email":"kid124kimo@nkust.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"程馨慧","學校":"國立高雄科技大學","地區":"M高雄","identify":"諮商心理師","topics":["即將更新"],"unit":"楠梓校區","Email":"suikar@nkust.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"程馨慧","學校":"國立高雄科技大學","地區":"M高雄","identify":"諮商心理師","topics":["即將更新"],"unit":["楠梓校區"],"Email":"suikar@nkust.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"林孟儒","學校":"國立高雄科技大學","地區":"M高雄","identify":"諮商心理師","topics":["即將更新"],"unit":"旗津校區","Email":"yp3321@nkust.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"林孟儒","學校":"國立高雄科技大學","地區":"M高雄","identify":"諮商心理師","topics":["即將更新"],"unit":["旗津校區"],"Email":"yp3321@nkust.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"周淑儀","學校":"國立高雄科技大學","地區":"M高雄","identify":"諮商心理師","topics":["即將更新"],"unit":"第一校區","Email":"tjudy@nkust.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"周淑儀","學校":"國立高雄科技大學","地區":"M高雄","identify":"諮商心理師","topics":["即將更新"],"unit":["第一校區"],"Email":"tjudy@nkust.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"吳佳賢","學校":"國立高雄科技大學","地區":"M高雄","identify":"社工師","topics":["即將更新"],"unit":"第一校區","Email":"jiashyan@nkust.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"吳佳賢","學校":"國立高雄科技大學","地區":"M高雄","identify":"社工師","topics":["即將更新"],"unit":["第一校區"],"Email":"jiashyan@nkust.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"張又箐","學校":"國立高雄科技大學","地區":"M高雄","identify":"諮商心理師","topics":["即將更新"],"unit":"第一校區","Email":"bobb@nkust.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"張又箐","學校":"國立高雄科技大學","地區":"M高雄","identify":"諮商心理師","topics":["即將更新"],"unit":["第一校區"],"Email":"bobb@nkust.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"翁銘鴻","學校":"國立高雄科技大學","地區":"M高雄","identify":"臨床心理師","topics":["即將更新"],"unit":"第一校區","Email":"markweng@nkust.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"翁銘鴻","學校":"國立高雄科技大學","地區":"M高雄","identify":"臨床心理師","topics":["即將更新"],"unit":["第一校區"],"Email":"markweng@nkust.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"陳燕","學校":"國立高雄科技大學","地區":"M高雄","identify":"諮商心理師","topics":["即將更新"],"unit":"第一校區","Email":"st96511131@nkust.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"陳燕","學校":"國立高雄科技大學","地區":"M高雄","identify":"諮商心理師","topics":["即將更新"],"unit":["第一校區"],"Email":"st96511131@nkust.edu.tw","Notes 2":"","Attachments":"","Status":""}
     
         ]
     },
     {
         "school":"國立東華大學",
         "psychologists":[
-            {"name":"陳淑惠","學校":"國立東華大學心理諮商輔導中心","地區":"P花蓮","identify":"諮商心理師","topics":["自我探索","人際關係議題","情感關係議題","家庭關係議題","情緒管理","悲傷失落與創傷調適","身心症狀"],"unit":"資訊工程學系\n材料科學與工程學系\n電機工程學系\n光電工程學系\n民族語言與傳播學系\n藝術與設計學系\n海洋學院","Email":"csh12967@gms.ndhu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+            {"name":"陳淑惠","學校":"國立東華大學心理諮商輔導中心","地區":"P花蓮","identify":"諮商心理師","topics":["自我探索","人際關係議題","情感關係議題","家庭關係議題","情緒管理","悲傷失落與創傷調適","身心症狀"],"unit":["資訊工程學系","材料科學與工程學系","電機工程學系","光電工程學系","民族語言與傳播學系","藝術與設計學系","海洋學院"],"Email":"csh12967@gms.ndhu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"林賢謀","學校":"國立東華大學心理諮商輔導中心","地區":"P花蓮","identify":"諮商心理師","topics":["情感關係議題","人際關係議題","生涯議題","家庭關係議題","生活適應","壓力調適","悲傷失落與創傷調適","性別議題"],"unit":"企業管理學系、運籌管理研究所\n國際企業學系\n會計學系、會計與財務碩士學位學程\n資訊管理學系、資訊管理碩士學位學程\n財務金融學系\n觀光暨休閒遊息學系\n管理學院管理科學與財金國際學士學位學程\n環境學院","Email":"lcm1460@gms.ndhu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"林賢謀","學校":"國立東華大學心理諮商輔導中心","地區":"P花蓮","identify":"諮商心理師","topics":["情感關係議題","人際關係議題","生涯議題","家庭關係議題","生活適應","壓力調適","悲傷失落與創傷調適","性別議題"],"unit":["企業管理學系","運籌管理研究所","國際企業學系","會計學系、會計與財務碩士學位學程","資訊管理學系、資訊管理碩士學位學程","財務金融學系","觀光暨休閒遊息學系","管理學院管理科學與財金國際學士學位學程","環境學院"],"Email":"lcm1460@gms.ndhu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"王淳羽","學校":"國立東華大學心理諮商輔導中心","地區":"P花蓮","identify":"","topics":["多元文化","性別議題","自我探索","情感關係議題","人際關係議題","壓力調適","悲傷失落與創傷調適","生活適應"],"unit":"英美語文學系\n華文文學系\n歷史學系","Email":"smileevelyn@gms.ndhu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"王淳羽","學校":"國立東華大學心理諮商輔導中心","地區":"P花蓮","identify":"","topics":["多元文化","性別議題","自我探索","情感關係議題","人際關係議題","壓力調適","悲傷失落與創傷調適","生活適應"],"unit":["英美語文學系","華文文學系","歷史學系"],"Email":"smileevelyn@gms.ndhu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"黃仕綸","學校":"國立東華大學心理諮商輔導中心","地區":"P花蓮","identify":"","topics":["自我探索","生涯議題","情緒管理","壓力調適","人際關係議題","悲傷失落與創傷調適","生活適應"],"unit":"教育與潛能開發學系\n教育行政與管理學系\n幼兒教育學系\n體育與運動科學系\n特殊教育學系","Email":"seanhuang@gms.ndhu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"黃仕綸","學校":"國立東華大學心理諮商輔導中心","地區":"P花蓮","identify":"","topics":["自我探索","生涯議題","情緒管理","壓力調適","人際關係議題","悲傷失落與創傷調適","生活適應"],"unit":["教育與潛能開發學系","教育行政與管理學系","幼兒教育學系","體育與運動科學系","特殊教育學系"],"Email":"seanhuang@gms.ndhu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"魏凡涓","學校":"國立東華大學心理諮商輔導中心","地區":"P花蓮","identify":"諮商心理師","topics":["情緒管理","壓力調適","悲傷失落與創傷調適","情感關係議題","人際關係議題","家庭關係議題","伴侶"],"unit":"族群關係與文化學系\n民族事務與發展學系\n民族社會工作學士學位學程\n原住民族樂與藝術學士學位學程\n經濟學系\n藝術創意產業學系","Email":"juliawei@gms.ndhu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"魏凡涓","學校":"國立東華大學心理諮商輔導中心","地區":"P花蓮","identify":"諮商心理師","topics":["情緒管理","壓力調適","悲傷失落與創傷調適","情感關係議題","人際關係議題","家庭關係議題","伴侶"],"unit":["族群關係與文化學系","民族事務與發展學系","民族社會工作學士學位學程","原住民族樂與藝術學士學位學程","經濟學系","藝術創意產業學系"],"Email":"juliawei@gms.ndhu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"陳奕錚","學校":"國立東華大學心理諮商輔導中心","地區":"P花蓮","identify":"諮商心理師","topics":["自我探索","情感關係議題","人際關係議題","家庭關係議題","生涯議題","壓力調適","生活適應","性別議題"],"unit":"應用數學系\n物理學系\n生命科學系\n化學系","Email":"yjchen92@gms.ndhu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"陳奕錚","學校":"國立東華大學心理諮商輔導中心","地區":"P花蓮","identify":"諮商心理師","topics":["自我探索","情感關係議題","人際關係議題","家庭關係議題","生涯議題","壓力調適","生活適應","性別議題"],"unit":["應用數學系","物理學系","生命科學系","化學系"],"Email":"yjchen92@gms.ndhu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"鄭琇方","學校":"國立東華大學心理諮商輔導中心","地區":"P花蓮","identify":"諮商心理師","topics":["自我探索","人際關係議題","生涯議題","情緒管理","身心症狀","生活適應","壓力調適","課業學習"],"unit":"中國語文學系\n臺灣文化學系\n社會學系\n公共行政學系\n財經法律研究所、法律學士學位學程\n音樂學系","Email":"maruco@gms.ndhu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"鄭琇方","學校":"國立東華大學心理諮商輔導中心","地區":"P花蓮","identify":"諮商心理師","topics":["自我探索","人際關係議題","生涯議題","情緒管理","身心症狀","生活適應","壓力調適","課業學習"],"unit":["中國語文學系","臺灣文化學系","社會學系","公共行政學系","財經法律研究所、法律學士學位學程","音樂學系"],"Email":"maruco@gms.ndhu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
-    {"name":"李玟蒨","學校":"國立東華大學心理諮商輔導中心","地區":"P花蓮","identify":"","topics":["情感關係議題","人際關係議題","家庭關係議題","情緒管理","身心症狀"],"unit":"諮商與臨床心理學系\n大一不分系\n人社院不分所博士班\n華語文教學國際博士班","Email":"phee1801@gms.ndhu.edu.tw","Notes 2":"","Attachments":"","Status":""}
+    {"name":"李玟蒨","學校":"國立東華大學心理諮商輔導中心","地區":"P花蓮","identify":"","topics":["情感關係議題","人際關係議題","家庭關係議題","情緒管理","身心症狀"],"unit":["諮商與臨床心理學系","大一不分系","人社院不分所博士班","華語文教學國際博士班"],"Email":"phee1801@gms.ndhu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     
         ]
     }

@@ -1,4 +1,5 @@
 <template>
+    
     <router-view></router-view>
     
 </template>
@@ -30,6 +31,7 @@ export default {
 html{
     scroll-behavior: smooth;
 }
+
 
 
 </style>

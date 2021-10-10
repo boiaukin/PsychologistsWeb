@@ -7,9 +7,13 @@
                 <div class="college-icon">
                     <img src="@/assets/college.png" alt="">
                 </div>
-                <div class="unit">
-                    {{data.unit}}
+
+                <div class="units">
+                    <div class="unit" v-for="(unit,index) in data.unit" :key="index">
+                        {{unit}}
+                    </div>
                 </div>
+                
                 <div class="Psychologist_card_photo">
                     <img src="@/assets/female_photo.png" alt="">
                 </div>
@@ -107,7 +111,7 @@ img{
 
 }
 
-.unit{
+.units{
     position: absolute;
     width: 127px;
     text-align: center;
@@ -126,7 +130,7 @@ img{
     line-height: 30px;
     
 }
-.college-icon:hover + .unit  {
+.college-icon:hover + .units  {
     display: block;
 }
 .name{
