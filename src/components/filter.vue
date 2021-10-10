@@ -27,7 +27,6 @@
                     <img  src="@/assets/up.png" alt="">
                 </div>
             </div>
-            
         </div>
         <div class="user-input-filter">
             <p class="user-input-filter-p">或者...</p>
