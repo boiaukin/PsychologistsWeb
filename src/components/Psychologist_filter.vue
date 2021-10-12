@@ -366,6 +366,8 @@ img{
     left: 160px;
     top: 110px;
 }
+
+
 .tittle{
     flex: 1;
     display: flex;
@@ -377,8 +379,6 @@ img{
     padding: 47.81px 0px 47.81px 0px;
     flex: 2;
     position: relative;
-   
-    
 }
 .Psychologist-filter-topic::before{
     content: "";

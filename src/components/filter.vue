@@ -12,9 +12,6 @@
                     <option selected>選擇區域</option>
                     <option v-for="(regions,index) in setregion"  :key="index">{{regions}}</option>      
                 </select>
-                <div class="select-icon-1">
-                    <img class="select-icon" src="@/assets/up.png" alt="">
-                </div>
                 
             </div>
             <div class="school-filter">
@@ -22,10 +19,6 @@
                     <option selected>選擇大學</option>
                     <option  v-for="(school,index) in setschool" :key="index" >{{school.school}}</option>
                 </select>
-                
-                <div class="select-icon-2">
-                    <img  src="@/assets/up.png" alt="">
-                </div>
             </div>
         </div>
         <div class="user-input-filter">
@@ -142,6 +135,10 @@ export default {
 </script>
 
 <style scoped>
+
+img{
+    width: 100%;
+}
 .filter{
     width: 100%;
     height: 809px;
@@ -158,7 +155,7 @@ img{
     z-index: -1;
 /* 修改一下position: absolute,會影響到下面的search-icon */
 }
-.background-img,.select-icon{
+.background-img{
     position: absolute;
 }
 /* tittle */
@@ -195,6 +192,21 @@ p{
     position: relative;
     z-index: 10;
 }
+.school-filter::after{
+    pointer-events: none;
+    content: '';
+    position: absolute;
+    right: 10px;
+    top: 22px;
+    width: 0;
+    height: 0;
+    border-left: 12px solid transparent;
+    border-right: 12px solid transparent;
+    border-top: 20px solid #e8e8e8;
+    clear: both;
+    border-radius: 4px;
+    cursor: pointer;
+}
 select{
     width: 100%;
     height: 60px;
@@ -206,13 +218,20 @@ select{
     -moz-appearance: none;
 
 }
-.select-icon-1{
-    width: 50px;
-    height: 50px;
+.region-filter::after{
+    pointer-events: none;
+    content: '';
     position: absolute;
-    right: 0px;
-    top: 5px;
-    z-index: 10;
+    right: 10px;
+    top: 22px;
+    width: 0;
+    height: 0;
+    border-left: 12px solid transparent;
+    border-right: 12px solid transparent;
+    border-top: 20px solid #e8e8e8;
+    clear: both;
+    border-radius: 4px;
+    cursor: pointer;
 }
 
 
@@ -258,14 +277,7 @@ select{
     
 }
 
-.select-icon-2{
-    width: 50px;
-    height: 50px;
-    position: absolute;
-    right: 0px;
-    z-index: 10;
-    top: 5px;
-}
+
 option{
     margin-left: 50px;
 }
