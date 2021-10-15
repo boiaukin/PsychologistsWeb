@@ -99,7 +99,7 @@ export default createStore({
       //這邊寫很久，記得回來看
       let is_exist = state.all_school.includes(state.user_input_type)
       if(is_exist){
-        let data = state.region_school.find( (res) => {
+        let data = state.region_school.find((res) => {
           return res.school.find((res2)=>{
             return res2.school ==  state.user_input_type
             })

@@ -64,6 +64,9 @@ export default {
             hide: false
         }
     },
+    mounted(){
+        window.scrollTo(0,0);
+    },
     computed:{
         
         ...mapState(['all_school','user_input_school','user_input_type']),
@@ -108,10 +111,18 @@ export default {
         
         },
         detect_show(){
-            if(this.user_input_type){
-                this.isShow =  true
-            }else{
+            let a = this.all_school.find((res)=>{
+                return res == this.user_typing
+            })
+
+            if(a){
                 this.isShow =  false
+            }else{
+                if(this.user_typing == ""){
+                    this.isShow =  false
+                }else{
+                    this.isShow =  true
+                }
             }
             
         },
@@ -135,7 +146,9 @@ export default {
 </script>
 
 <style scoped>
-
+button{
+    cursor: pointer;
+}
 img{
     width: 100%;
 }

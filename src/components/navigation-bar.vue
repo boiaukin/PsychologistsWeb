@@ -1,6 +1,6 @@
 <template>
     <nav>
-        <div class="logoImg">
+        <div class="logoImg" @click="backtohome">
             <img class="logo" src="../assets/logo.png" alt="">
         </div>
     </nav>
@@ -8,7 +8,12 @@
 
 <script>
 export default {
-
+    methods:{
+        backtohome(){
+            this.$router.push({path:'/'})
+            
+        }
+    }
 }
 </script>
 

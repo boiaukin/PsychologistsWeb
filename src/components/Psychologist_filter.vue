@@ -303,6 +303,9 @@ export default {
 </script>
 
 <style scoped>
+button{
+    cursor: pointer;
+}
 .Psychologist-filter{
     width: 100%;
     height: 1481px;
@@ -610,6 +613,7 @@ input{
     display: flex;
     justify-content: center;    
     align-items: center;
+    
 }
 .submit{
     width: 220px;
