@@ -23,7 +23,7 @@
                         </div>
                         <div class="chip-3 chip" :class="{border:action3}" @click="get_select_identify_3">
                             <div class="icon-1">
-                                <img src="@/assets/Counseling-Psychologist.png" alt="">
+                                <img src="@/assets/Clinical-psychologist.png" alt="">
                             </div>
                             <div class="name">諮商心理師</div>
                         </div>
