@@ -341,7 +341,7 @@ button{
     margin-top: 123px;
     width: 220px;
     height: 85px;
-    background: rgba(220, 148, 148, 0.8);
+    background: #CE6721;
     box-shadow: 3px 9px 8px rgba(0, 0, 0, 0.25);
     border-radius: 40px;
     border:  none;

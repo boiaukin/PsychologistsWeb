@@ -1,6 +1,7 @@
 [
     {
         "school" : "國立台灣大學",
+        "link":"http://scc_osa.ntu.edu.tw/",
         "psychologists": [
             {
             "name":"段亞新",
@@ -188,6 +189,7 @@
     },
     {
         "school":"國立政治大學",
+        "link":"https://osa.nccu.edu.tw/tw/%E8%BA%AB%E5%BF%83%E5%81%A5%E5%BA%B7%E4%B8%AD%E5%BF%83/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF",
         "psychologists": [
             {
                 "id": 1,
@@ -323,6 +325,7 @@
     },
     {
         "school":"國立政治大學",
+        "link":"http://counseling.sa.ntnu.edu.tw/bin/home.php",
         "psychologists": [
             {
                 "id":1,
@@ -448,6 +451,7 @@
     },
     {
         "school":"國立臺灣科技大學",
+        "link":"https://student.ntust.edu.tw/p/412-1053-8271.php?Lang=zh-tw",
         "psychologists":[
             {
                 "name":"劉啟頁",
@@ -513,6 +517,7 @@
     },
     {
         "school":"國立臺北教育大學",
+        "link":"https://dsa.ntue.edu.tw/psy",
         "psychologists":[
             {"name":"翁庭芳","學校":"國立臺北教育大學心輔組","地區":"A臺北","identify":"諮商心理師","topics":["家庭關係議題","生涯議題","情緒管理","悲傷失落與創傷調適"],"unit":["即將更新"],"Email":"pcc@tea.ntue.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
@@ -538,6 +543,7 @@
     },
     {
         "school":"中國文化大學",
+        "link": "https://counseling.pccu.edu.tw/bin/home.php",
         "psychologists":[
             {"name":"王蔚竣","學校":"中國文化大學","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":["工學院","社科學院"],"Email":"wwj4@ulive.pccu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
@@ -560,6 +566,7 @@
     
     {
         "school":"實踐大學",
+        "link":"http://adm.usc.edu.tw/counseling/",
         "psychologists":[
             {"name":"王珮蘭","學校":"實踐大學諮商輔導中心","地區":"A臺北","identify":"諮商心理師","topics":["自我探索","生涯議題","性別議題"],"unit":["管理學院"],"Email":"counseling.usc@gmail.com","Notes 2":"","Attachments":"","Status":""}
             ,
@@ -573,6 +580,7 @@
     },
     {
         "school":"銘傳大學",
+        "link":"https://cpc.mcu.edu.tw/zh-hant/content/%e8%ab%ae%e5%95%86%e8%bc%94%e5%b0%8e%e4%b8%ad%e5%bf%83",
         "psychologists":[
             {"name":"孫乙仙","學校":"銘傳大學諮商輔導中心","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":["管理學院(企管系/所)","法律學院(法律系/所、財金法律系)"],"Email":"yssun@mail.mcu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
@@ -600,6 +608,7 @@
     },
     {
         "school":"國立臺北大學",
+        "link":"https://advisory.utaipei.edu.tw/index.php",
         "psychologists":[
             {"name":"褚家鳳","學校":"臺北市立大學學務處學生輔導中心","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":["博愛校區"],"Email":"vivchu@uTaipei.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
@@ -611,6 +620,7 @@
     },
     {
         "school":"東吳大學",
+        "link":"https://web-ch.scu.edu.tw/hcc",
         "psychologists":[
             {"name":"朱嘉琦","學校":"東吳大學健康暨諮商中心","地區":"A臺北","identify":"諮商心理師","topics":["即將更新"],"unit":["中文系","歷史系"],"Email":"chichi@scu.edu.tw","Notes 2":"","Attachments":"","Status":""}
             ,
@@ -634,6 +644,7 @@
     },
     {
         "school":"輔仁大學",
+        "link":"http://www.scc.fju.edu.tw/#&panel1-1",
         "psychologists":[
             
     {"name":"周佩君","學校":"輔仁大學學生輔導中心","地區":"B新北","identify":"諮商心理師","topics":["情感關係議題","自我探索","生涯議題,生活適應"],"unit":["即將更新"],"Email":"","Notes 2":"","Attachments":"","Status":""}
@@ -664,6 +675,7 @@
     },
     {
         "school":"中原大學",
+        "link":"https://wph.cycu.edu.tw/misa/",
         "psychologists":[
             {"name":"葉安華","學校":"中原大學學生事務處諮商中心","地區":"D桃園","identify":"諮商心理師","topics":["情感關係議題","性別議題","外籍生"],"unit":["即將更新"],"Email":"ahyeh@cycu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
@@ -691,6 +703,7 @@
     },
     {
         "school":"國立中央大學",
+        "link":"http://love.adm.ncu.edu.tw/ncu_counsel/index.php",
         "psychologists":[
             {"name":"傅琇悅","學校":"國立中央大學諮商中心","地區":"D桃園","identify":"諮商心理師","topics":["生涯議題","情緒管理","人際關係議題","壓力調適"],"unit":["即將更新"],"Email":"yuehfu@cc.ncu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
@@ -708,6 +721,7 @@
     },
     {
         "school":"國立清華大學",
+        "link":"http://counsel.site.nthu.edu.tw/",
         "psychologists":[
             {"name":"陳美如","學校":"國立清華大學諮商中心","地區":"E新竹","identify":"臨床心理師","topics":["自我探索","情緒管理","人際關係議題"],"unit":["校本部"],"Email":"mjchen@mx.nthu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
@@ -735,6 +749,7 @@
     },
     {
         "school":"國立陽明交通大學",
+        "link":"https://counsel.sa.nctu.edu.tw/",
         "psychologists":[
             {"name":"盧怡任","學校":"國立陽明交通大學","地區":"E新竹","identify":"諮商心理師","topics":["自我探索","人際關係議題","情感關係議題","生涯議題","存在取向"],"unit":["即將更新"],"Email":"matt7075@nctu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
@@ -773,6 +788,7 @@
     },
     {
         "school":"國立中興大學",
+        "link":"https://www.osa.nchu.edu.tw/osa/hac/index.html",
         "psychologists":[
             {"name":"林育如","學校":"國立中興大學","地區":"G台中","identify":"諮商心理師","topics":["自我探索","人際關係議題","情感關係議題","情緒管理"],"unit":["即將更新"],"Email":"counsel@nchu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
@@ -793,6 +809,7 @@
     
     {
         "school":"國立臺中科技大學",
+        "link":"https://csc.nutc.edu.tw/files/11-1034-1208.php",
         "psychologists":[
             {"name":"林淑敏","學校":"國立臺中科技大學","地區":"G台中","identify":"諮商心理師","topics":["即將更新"],"unit":["語文學院"],"Email":"smlinsmlin@nutc.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
@@ -814,6 +831,7 @@
     },
     {
         "school":"朝陽科技大學學生發展中心",
+        "link":"https://stafof.cyut.edu.tw/p/426-1003-13.php?Lang=zh-tw",
         "psychologists":[
             {"name":"洪碧卿","學校":"朝陽科技大學","地區":"G台中","identify":"社工師","topics":["即將更新"],"unit":["即將更新"],"Email":"piching@cyut.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
@@ -833,6 +851,7 @@
     },
     {
         "school":"東海大學",
+        "link":"http://deanstu.thu.edu.tw/subweb/helpline/",
         "psychologists":[
             {"name":"張意真","學校":"東海大學健康暨諮商中心","地區":"G台中","identify":"社工師,諮商心理師","topics":["自我探索","人際關係議題","性別議題"],"unit":["中心主任\n"],"Email":"icheng@thu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
@@ -858,6 +877,7 @@
     },
     {
         "school":"逢甲大學",
+        "link":"https://student.fcu.edu.tw/%e8%ab%ae%e5%95%86%e8%bc%94%e5%b0%8e%e4%bf%ae/",
         "psychologists":[
             {"name":"紀娙宜","學校":"逢甲大學諮商輔導中心","地區":"G台中","identify":"諮商心理師","topics":["即將更新"],"unit":["工程與科學學院"],"Email":"","Notes 2":"","Attachments":"","Status":""}
     ,
@@ -880,6 +900,7 @@
     },
     {
         "school":"國立彰化師範大學",
+        "link":"http://ncuecounseling.ncue.edu.tw/bin/home.php",
         "psychologists":[
             {"name":"陳嬿任","學校":"國立彰化師範大學 學生心理諮商與輔導中心","地區":"H彰化","identify":"諮商心理師","topics":["即將更新"],"unit":["即將更新"],"Email":"yrchen@cc.ncue.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
@@ -897,6 +918,7 @@
     },
     {
         "school":"國立中正大學",
+        "link":"https://advising.ccu.edu.tw/",
         "psychologists":[
             {"name":"劉佩瑜","學校":"國立中正大學諮商中心","地區":"K嘉義","identify":"","topics":["即將更新"],"unit":["理學院"],"Email":"pyliu@ccu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
@@ -916,6 +938,7 @@
     },
     {
         "school":"國立成功大學",
+        "link":"http://counseling.osa.ncku.edu.tw/index.php",
         "psychologists":[
             {"name":"廖聆岑","學校":"國立成功大學心輔組","地區":"L臺南","identify":"臨床心理師","topics":["自我探索","人際關係議題","情感關係議題","情緒管理","壓力調適","悲傷失落與創傷調適","身心症狀","家庭關係議題","生涯議題","個人中心取向","認知行為取向","存在取向"],"unit":["不分系"],"Email":"lingchen@mail.ncku.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
@@ -945,6 +968,7 @@
     },
     {
         "school":"國立高雄科技大學",
+        "link":"https://stu.nkust.edu.tw/p/412-1007-798.php?Lang=zh-tw",
         "psychologists":[
             {"name":"康維芬","學校":"國立高雄科技大學","地區":"M高雄","identify":"諮商心理師","topics":["即將更新"],"unit":["建工校區"],"Email":"karen@nkust.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,
@@ -988,6 +1012,7 @@
     },
     {
         "school":"國立東華大學",
+        "link":"https://stu.nkust.edu.tw/p/412-1007-798.php?Lang=zh-tw",
         "psychologists":[
             {"name":"陳淑惠","學校":"國立東華大學心理諮商輔導中心","地區":"P花蓮","identify":"諮商心理師","topics":["自我探索","人際關係議題","情感關係議題","家庭關係議題","情緒管理","悲傷失落與創傷調適","身心症狀"],"unit":["資訊工程學系","材料科學與工程學系","電機工程學系","光電工程學系","民族語言與傳播學系","藝術與設計學系","海洋學院"],"Email":"csh12967@gms.ndhu.edu.tw","Notes 2":"","Attachments":"","Status":""}
     ,

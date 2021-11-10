@@ -27,9 +27,6 @@ export default createStore({
     Psychologists_data: [],
     
 
-
-
-
     find_filter_school:[],
     identify: [],
     topic:     [],
